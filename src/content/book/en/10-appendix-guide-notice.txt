@@ -1,0 +1,651 @@
+       시므
+
+
+
+    Appendix
+
+
+
+
+
+   Appendix
+
+Guide Notice
+         Guide notice
+
+
+         1. Focus on the principles and philosophy of creation
+
+         In the translation of Hunminjeongeum (Jeongeum)
+         Haeryebon, the emphasis is placed on conveying the
+         principles and philosophy behind its creation from a general
+         perspective rather than providing linguistic explanations.
+         For younger generations, expressions have been adapted
+         where necessary to make the fundamental principles and
+         philosophy of Hunminjeongeum more accessible.
+         For a more traditional and scholarly interpretation of the
+         Hunminjeongeum Haeryebon, I recommend a book
+         “Reading the Hunminjeongeum Haeryebon Together” - Kim
+         Seulong, 2024. Dr. Kim Seulong's research achievements in
+         Hunminjeongeum have been directly and indirectly utilized
+         in this book. As the foremost expert in interpreting the
+         Hunminjeongeum, Dr. Kim's dedication and passion for
+         Hangul deserve great respect.
+         The translation references and utilizes the research results
+         of many scholars. In some cases, speci c sources have not
+         been fully identi ed. These will be speci ed as soon as they
+         are con rmed.
+
+         Appendix - Guide notice                                      263
+
+
+
+
+                                         fi
+                                    fi
+            fi
+    fi
+￼
+                   2. Hunminjeongeum, Jeongeum, and Hangul
+
+
+                   Hunminjeongeum is sometimes written as Jeongeum when
+                   necessary. In explanations where there is no difference from
+                   modern Hangul, the term Hangul is used instead of
+                   Jeongeum. Consonants and vowels that are not explicitly
+                   mentioned in Hunminjeongeum are used interchangeably.
+                   The terms initial sound(첫소리), medial sound(가운뎃소리),
+                   and nal sound(끝소리) are also expressed as
+                   choseong(initial consonants), jungseong(medial vowels, and
+                   jongseong( nal consonants). When combined as a set, they
+                   are referred to as cheotgakkeut(첫가끝: CheotGaGgeut) or
+                   chojungjong(초중종).
+                   Sounds and letters are not speci cally distinguished in
+                   expression. In other words, initial sound refers to both the
+                   initial sound letter and the sound itself.
+                   The initial sound and nal sound are consonants are called
+                   홀소리(Holsori) meaning touching sound because, when
+                   producing these sounds, the air ow touches parts of the
+                   mouth such as the tongue, lips, or throat. While the medial
+                   vowels are 닿소리(Datsori) meaning pure sound because the
+                   air ow passes through without touching any part of the
+                   speech organs.
+                   264
+
+
+
+
+                                            fi
+                                       fl
+                            fi
+              fi
+         fi
+    fl
+￼
+    3. Obsolete tones in sound
+
+    In modern Hangul, the concept of tone (pitch accent) is no
+    longer used. Therefore, the examples of Hangul presented
+    in the Hunminjeongeum Haeryebon also omit tone
+    markings. Although tone has disappeared in modern
+    Hangul, there are still homophones whose meanings
+    change depending on the length of the sound. For example,
+    the word 굴 gul, when pronounced with a long sound, means
+    "cave," but when pronounced with a short sound, it means
+    "oyster." Similarly, 밤 bam, when pronounced with a long
+    sound, refers to "night (time)," while with a short sound, it
+    means "chestnut (nut)." Since the length of the sound is not
+    marked in the writing, the meaning must be inferred from
+    the context and situation.
+
+
+    4. New terms
+
+    Hanul-A (ㆍ)
+
+    In Hunminjeongeum, ㆍ was described as the origin of all
+    sounds. As the starting point of Hangul, ㆍ deserves to have
+    its original name restored and its role reinstated.
+    Due to the limitations of how ㆍ has long been referred to as
+    Arae-A and its exclusion from modern Hangul, we have
+    Appendix - Guide notice                                         265
+
+
+
+
+￼
+    temporarily chosen to represent it as Hanul-A. In the future,
+    with proper restoration and recognition of its phonetic value,
+    it should be renamed ‘Hanul ㆍ’.
+    The sound of ㆍ is estimated to correspond to IPA symbols
+    such as [ʌ], [ɤ], or [ɒ]; here, we represent it with [ʌ]. In
+    English, it is close to the vowel sound in “uh” or “aw”.
+    Dr. Kim Seulong explains it as: “The lips form like ㅓ, the
+    tongue is positioned like ㅗ — it sounds like ㅓ, but is closer
+    to ㅗ.”
+    Today, because its pronunciation is similar to ㅏ and it
+    appears beneath consonants, it is commonly called Arae-a.
+    However, the character was removed from the Hangul
+    vowel system starting with the 1912 Orthography for
+    Elementary Schools during the Japanese occupation.
+    Both the name and its removal from Hangul need to be
+    corrected.
+
+
+    Single letter and syllable (낱소리, 온소리)
+
+    ㅇ and ㅡ are considered single characters (phonemes, 낱글
+    자, Natgeulja). The sound of a single character is called a
+    single sound(낱소리, Natsori). When an initial consonant like
+    ㅇ and a medial vowels like ㅡ are combined to form a
+    266
+
+
+
+
+￼
+    complete syllable, like "으," it is called a whole character (온
+    글자, Ongeulja). The single sound produced by a whole
+    character is called a whole sound (온소리, Onsori).
+    Here, on means "complete," "fully equipped," or " awless." A
+    whole character represents a complete syllable, and the
+    sound it produces is considered a complete or perfect
+    sound.
+
+
+    Root letter, basic letter, composite or combined letter
+
+    These terms are used to classify the individual letters of
+    Jeongeum. The initial sounds ㅇ ㅅ ㅁ ㄴ ㄱ (eu Seu Meu
+    Neu Geu) and the medial sounds ㆍ ㅡ ㅣ (Hanul-A [ʌ], eu,
+    i) are called root letters. From these root letters, the twelve
+    basic consonants and eight basic vowels are formed
+    through additional strokes and combinations representing
+    the harmony of Heaven, Human, and Earth. Including the
+    root characters, a total of 28 basic letters are completed.
+    From these basic letters, additional strokes or combinations
+    are added beside or below the base to create composite or
+    combined letters such as ㄲ, ㅸ, and ㅘ. These individual
+    letters (phonemes) then combine as initial consonants,
+    medial vowels, or nal consonants to form whole characters
+    (syllables) that produce whole sounds.
+    Appendix - Guide notice                                       267
+
+
+
+
+                                          fl
+          fi
+￼
+    Added strokes
+
+    The process of adding strokes to a character, like extending
+    a line from ㄱ(Geu) to create ㅋ(Keu), is called added
+    strokes. If a dot is added, it is referred to as an added dot.
+
+
+    Balk-I-Eo( or Eo-I-Balk) Daum(밝이어 다움)
+    Language is the vessel of thought. This term aims to
+    interpret the philosophical principles of Hangul creation in
+    modern terms. Balk-Eo expresses Yin and Yang.
+    Daum(Daseot Umjikim, the Five Movement) means the Five
+    Elements. This is abbreviated as BalkIEo Daum.
+    Additionally, the concept of Ieum, which represents the state
+    where darkness and brightness are interconnected, is
+    included. The sequence of darkness-Ieum-brightness is
+    shortened to Eo-I-Balk. However, instead of Eo-I-Balk, the
+    term Balk-I-Eo, which places emphasis on brightness rst, is
+    primarily used interchangeably.
+
+
+    Hasattang or Hatangsa (하사땅, 하땅사)
+    These terms represent the Three Principles (Samjae), the
+    fundamental belief that Heaven, Earth, and Human form the
+    basis of harmony in the universe. Hasattang(하사땅) is
+    abbreviation of Hanul (하늘 Heaven), Saram(사람 Human),
+    268
+
+
+
+
+                                               fi
+￼
+    and Ttang(땅 Earth). In the cosmic creation process, the
+    sequence is represented as ㅇㅁㅅ (Hattangsa), but the
+    phenomena we observe are expressed as ㅇㅅㅁ
+    (Hasattang). Therefore, Hasattang is used as the main
+    reference.
+
+
+    Wonsene or Wonnese (원세네, 원네세)
+
+    The symbols representing Hasattang are the circle, the
+    triangle, and the square (Won, Semo, Nemo 원/동그라미 세모
+    네모). Collectively, these are called Donsene. Wonnese and
+    its phenomenal representation Wonsene are also used
+    interchangeably.
+
+
+    Jeomgase(seon) or Jeomsega(seon)(점가세(선), 점세가(선)
+
+    The basic vowel letters ㆍㅡㅣ are derived from the symbols
+    of Heaven, Earth, and Human represented respectively by a
+    dot(Jeom 점), a horizontal line(가로선), and a vertical line(세
+    로선). We can refer to this group collectively as Jeomgase(점
+    가세) or Jeomgase(seon, meaning line) (점가세선).
+    Alternatively, if the symbolic order is taken as Heaven–
+    Human–Earth, the sequence becomes dot, vertical line,
+    horizontal line, in which case it may be referred to as
+    Appendix - Guide notice
+    Jeomsega(점세가) or Jeomsegaseon(점세가선).                       269
+
+
+
+
+￼
+    Heaven medial vowels, Earth vowels, Human vowels
+
+    Vowels are divided into three categories. Heaven vowels
+    include ㆍ, Earth vowels include ㅡ, and the combination of
+    Earth (ㅡ) and Heaven (ㆍ) forms ㅗ ㅜ ㅛ ㅠ. Human
+    Vowels represent humanity, symbolized by ㅣ, and the
+    combination of Human (ㅣ) with Heaven (ㆍ) creates ㅏ ㅓ
+    ㅑㅕ. This tripartite division of vowels is used to explain their
+    placement. Heaven vowels and Earth vowels are positioned
+    below the initial consonant, while Human vowels are placed
+    to the right of the initial consonant.
+
+
+    Ggeut, OnGgeut, SeOnGgeut (끝, 온끝, 세온끝)
+
+    These are Korean expressions representing Mugeuk(in nite
+    ultimate), Taeguk(supreme ultimate), and
+    Samtaeguk(threefold supreme ultimate).
+    Ggeut symbolizes Mugeuk, the in nite and boundless origin
+    before any division. It is described as the "Empty End,"
+    representing the limitless, unbounded state before the
+    creation of Taeguk. The term Teonggeut (Empty End) is a
+    combination of 텅 teong (emptiness) and 끝 Ggeut
+    (extreme), signifying a "fundamental state of in nite
+    emptiness." It is expressed as either Geut or TeonGgeut.
+    270
+
+
+
+
+                                                fi
+                                         fi
+                          fi
+￼
+    OnGgeut represents Taeguk, symbolizing the perfect
+    harmony of the universe and the balance of darkness and
+    light (BalkEo, Yin and Yang). The term combines on (all,
+    complete) and geut (extreme), meaning "the end and the
+    beginning of all things."
+    SeOnGgeut represents Samtaeguk, the threefold complete
+    harmony, symbolizing the unity of Heaven, Earth, and
+    Human in perfect balance.
+
+    5. Naming for initial consonants: ㄱ (Geu-iG), ㄴ (Neu-iN)
+
+    The initial sounds of Jeongeum, that are consonants, are
+    named by adding ㅡ (eu) to the initial consonant. The nal
+    sounds are named by adding i and the appropriate nal
+    consonant sound. For example, the initial sound of ㄱ is
+    called Geu, and its nal sound is called iK. Combining both
+    the initial and nal sound names, the complete name for ㄱ
+    becomes Geu-iG. Therefore, ㄱ can be referred to as either
+    Geu or Geu-iG.
+    For ㆅ, since it is not used as a nal consonant in Unicode
+    composition, its nal sound name is represented using the
+    similar sound ㅎ (Heu-iH), and it is named Ih. In Jeongeum,
+    although ㅇ is written as Eu-i (으이), its nal sound is
+    actually silent, so it should be pronounced as Eui
+    Appendix - Guide notice                                    271
+
+
+
+
+                                                fi
+                                           fi
+                                   fi
+                              fi
+               fi
+          fi
+     fi
+￼
+    (으이).
+    The current order of ㅣ and ㅡ follows the original vowel
+    sequence in Jeongeum, where ㅡ comes rst after ㆍ. The
+    pronunciation of ㄱ as Geu is a natural phenomenon, so the
+    name is derived accordingly.
+    Background for the New Naming Method Using ㅡ and ㅣ
+    There are three main reasons for suggesting new names
+    based on the combination of ㅡ and ㅣ.
+    When people naturally pronounce the consonant ㄱ, it is
+    more often pronounced as Geu rather than Gi. Naming ㄱ
+    as Geu follows the intuitive pronunciation and makes it
+    easier to learn. This allows the phonetic value to be grasped
+    naturally without needing to memorize it separately. Even
+    when representing ㄱ phonetically in English as Geu[k], it
+    aligns with Geu.
+    If the vowel order is corrected to follow the original
+    sequence from Hunminjeongeum (ㆍ ㅡ ㅣ ㅗ ㅏ ㅜ ㅓ ㅛ
+    ㅑ ㅠ ㅕ), the currently used vowels ㅡ and ㅣ appear rst.
+    By using these two base characters in consonant naming,
+    learners can naturally familiarize themselves with the
+    foundational vowel order.
+    Replacing 기 Gi with 그 Geu for the initial sound of ㄱ
+
+    272
+
+
+
+
+                                                fi
+                                   fi
+￼
+    improves its readability.
+    This new approach is meaningful as it reinterprets the
+    principles and philosophy of Hunminjeongeum and attempts
+    to develop them in a way that ts the modern era.
+
+
+    6. Order of consonant root letters: ㅇ ㅅ ㅁ ㄴ ㄱ
+
+    The principle of translation is to adhere as closely as
+    possible to the original content of Jeongeum. However, for
+    better understanding, interpretative translation and
+    additional explanations have been included.
+    In Jeongeum, the order of initial sounds follows the principle
+    of Daum as ㄱ ㄴ ㅁ ㅅ ㅇ. King Sejong, with profound
+    understanding of East Asian phonology and traditional
+    philosophy, created the world's most advanced writing
+    system based on this deep knowledge.
+    For the explanation of initial sounds, an inverted order of the
+    traditional sequence re ecting ㅇ ㅅ ㅁ is suggested. This
+    order aligns with the Hatangsa principle for vowels and is
+    more intuitive for learning and self-discovery of Hangul.
+    Therefore, the proposed order based on Daum is ㅇ ㅅ ㅁ
+    ㄴ ㄱ, and this sequence is applied consistently throughout
+    the explanations.
+
+    Appendix - Guide notice                                      273
+
+
+
+
+                         fi
+                fl
+￼
+         7. Philosophy terms in Korean
+
+         Hasattang Balk-I-Eo Daum( or Hattangsa Eo-I-Balk Daum)
+         is a simpli ed and intuitive Korean expression for the core
+         principles of Samjae (Three Element Philosophy) and Yin-
+         Yang and the Five Elements, which are fundamental to the
+         creation of Hunminjeongeum. Although Yin-Yang and the
+         Five Elements are key concepts in Eastern philosophy that
+         explain the principles of the universe and nature, their
+         Chinese-based terminology can create linguistic barriers for
+         modern generations, making them seem dif cult and
+         unfamiliar.
+         Moreover, the Samjae (Heaven, Earth, and Human)
+         philosophy is not only a central cosmological view for the
+         Korean people but also the most essential concept in
+         Hunminjeongeum. Therefore, expressing it in native Korean
+         terms became even more necessary.
+         Language is the heart of the people. It is the vessel that
+         holds our spirit, culture, and history. Thought is formed
+         through language, and if the language is dif cult or
+         unfamiliar, the depth of that thought becomes limited. For
+         younger generations who are not familiar with Chinese
+         characters, terms like Samjae, Cheonjiin (Heaven, Earth,
+         Human), and
+         274
+
+
+
+
+                                              fi
+                                         fi
+    fi
+￼
+    Ohaeng (the Five Elements) can become obstacles even
+    before the concepts are understood, simply because of the
+    Chinese characters themselves.
+    These concepts are part of our long-standing philosophical
+    heritage. However, just because the terminology is in
+    Chinese characters, it often creates the false perception that
+    its origins are Chinese. The term Yin-Yang and the Five
+    Elements can also evoke stereotypes related to fortune-
+    telling, numerology, divination, or shamanism, which can
+    obstruct a deeper understanding of the spirit of
+    Hunminjeongeum. Therefore, it is necessary to translate
+    these key ideas into Korean and reinterpret them for
+    modern understanding.
+    Hasattang Balk-I-Eo Daum is a Korean expression intended
+    to reduce the linguistic burden and enable a more familiar
+    and accurate understanding of the cosmic principles
+    embraced in Hunminjeongeum.
+
+
+
+
+    Appendix - Guide notice                                    275
+
+
+
+
+￼
+                Literal   Modern
+                         Phonetic                                                    Hangu
+               Translat               Letters and IPA       Description
+                             s                                                         l
+                  ion
+                        (Standard
+                        Velar       ㄱㅋㄲㆁ                 The back of the
+                Molar
+                        Consonan ㄱ /k/, ㅋ /kʰ/, ㄲ /k/, tongue touches the 엄소리
+               Sounds                                    soft  palate    (velum).
+                        ts          ㆁ /ŋ/
+                        Coronal ㄷ ㅌ ㄸ ㄴ                  The tongue tip
+               Tongue
+                        Consonan ㄷ /t/, ㅌ /tʰ/, ㄸ /t/, touches the alveolar 혓소리
+               Sounds                                    ridge  or   the   teeth.
+                        ts          ㄴ /n/
+
+                  Lip
+                        Labial      ㅂ   ㅍ   ㅃ   ㅁ        The lips press              입술소
+                        Consonan ㅂ /p/, ㅍ /pʰ/, ㅃ /p/, together or against
+               Sounds                                    the  teeth.                   리
+                        ts          ㅁ /m/
+                        Sibilant &
+                Teeth   Alveopalat  ㅈ   ㅊ   ㅉ   ㅅ    ㅆ   Air  ow   is  directed
+                                                         toward the teeth,
+                        al          ㅈ /tɕ/, ㅊ /tɕʰ/, ㅉ / often producing a           잇소리
+               Sounds
+                        Consonan tɕ/, ㅅ /s/, ㅆ /s/       hissing sound.
+                        ts
+                        Glottal &
+                        Pharynge    ㆆ   ㅎ   ㆅ   ㅇ        The sound is
+                                                                                     목구멍
+                Throat                                   produced deep in
+                        al          ㆆ /ʔ/, ㅎ /h/, ㆅ /x/, the throat, using the
+               Sounds                                                                 소리
+                        Consonan ㅇ/◌/ /ɦ/                glottis or pharynx.
+                        ts
+                Semi-   Lateral &   ㄹ                    The   tongue      is curled
+                        Rhotic                           or ows smoothly,            반혓소
+               Tongue               ㄹ /ɾ/ flap or /l/
+                        Consonan                         producing      /l/ or /r/     리
+               Sounds               final position       sounds.
+                        ts
+                        Fricative &                      A softer or weaker
+                Semi- Approxim
+                                    ㅿ                    form   of  teeth            반잇소
+                Teeth ant                                sounds, often
+                                    ㅿ /z/ or /ð/         pronounced         with       리
+               Sounds Consonan
+                                                         less obstruction.
+                        ts
+
+
+
+
+                                  #Interpretation of seven sounds
+
+
+              276
+
+
+
+
+￼        fl
+    fl
+          Conso Roma      IPA    English  Hangul         Current   English
+          nants   n             new name new name         name      name
+                          /◌/ /◌/eui /ŋ/
+           ㅇ      NG       /ŋ/
+                                         으     잉          이응        Ieung
+           ㅎ       H       /h/ Heu-iH    흐     잏          히읗        Hieut
+           ㆆ       ʔ       /ʔ/    /ʔ/eu-i/ʔ/
+           ㆁ      NG       /ŋ/    /ŋ/ eui- /ŋ/
+           ㆅ      HH       /x/ /x/eu-i/x/            잏   쌍히읗
+           ㅅ       S       /s/    Seu-iS         스   잇   시읏(옷)      Sieut
+           ㅈ       J      /tɕ/    Jeu-iJ         즈   잊    지읒        Jieut
+           ㅊ      Ch      /tɕʰ/ Cheu-iCh         츠   잋    치읓        Chieut
+           ㅿ       Z       /z/ Zeu-iZ                              BanSieut
+           ㅆ      SS       /s͈/   Sseu-iSS       쓰   있   쌍시읐       SSiess
+           ㅉ       JJ     /tɕ/͈   JJeu-iJJ       쯔       쌍지읒        JJieujj
+           ㅁ       M      /m/     Meu-iM         므   임    미음        Mieum
+           ㅂ      B/P    /b/~/p/ Beu-iP          브   입    비음        Bieup
+           ㅸ       V      /β/ Veu-iV                                Pieup
+           ㅍ       P      /pʰ/    Peu-iP         프   잎    피읍
+           ㅃ      PP       /p/͈   BBeu-iPP       쁘       쌍비읍       PPieupp
+           ㄴ       N       /n/    Neu-iN         느   인    니은        Nieun
+           ㄷ      D/T    /d/~/t/ Deu-iD          드   읻   디읃(귿)      Dieut
+           ㅌ       T       /tʰ/   Tel-iT         트   잍    티읕        Tieut
+           ㄹ      R/L    /ɾ/~/l/ Reu-iL          르   일    리을        Rieul
+           ㄸ      TT       /t/͈   TTeu-iTT       뜨       쌍디귿       TTieudd
+           ㄱ      G/K /ɡ/~/k/ Geu-iG             그   익   기윽(역)      Gieuk
+           ㅋ       K      /kʰ/    Keu-iK         크   잌    니은       Khieuk
+           ㄲ      KK       /k͈/   GGeu-iGG       끄   읶   쌍기윽       KKieuKK
+
+
+                             #New naming of Hangul consonants
+
+
+           Appendix - Guide notice                                            277
+
+
+
+
+      
+이
+이
+
+이
+
+
+
+
+   
+      
+      
+￼
+              Cons Romani                                Example
+              onant zation         IPA        Name        Word         Oxford Korean Word       Korean Word
+
+                   (∅ or /∅ | ɦ/                                   won, oppa, aegyo,     원, 오빠, 애교, 언
+              ㅇ      ɦ) /ŋ/
+                                         /◌/eui /ŋ/     soNG
+                                                                   unni, of cetel        니,오피스텔  | (먹)
+                                                                                         방
+              ㅎ      H /h/               Heu-iH         Hat        hangul,hanbok, hyung, 한글, 한복, 형,한
+                                                                   hallyu, haenyeo       류,해녀
+              ㆆ      ʔ /ʔ/               /ʔ/eu-i/ʔ/
+              ㆁ      ŋ /ŋ/               /ŋ/ eui- /ŋ/   soNG       hyuNG, mukbaNG           형
+              ㆅ     HH /x/               /x/eu-i/x/     Harbin     harbin                       얼빈
+                                                                   samgyeobsal, skinship, 삼겹살, 스킨십, 선
+              ㅅ         S    /s/         Seu-iS         sun
+                                                                   sunbae                 배
+
+              ㅈ J /tɕ/                   Jeu-iJ         jump       japchae                  잡채
+
+              ㅊ Ch /tɕʰ/                 Cheu-iCh       cheese chimaek, japCHae             치맥, (잡)채
+              ㅿ Z /z/                    Zeu-iZ         Zebra
+              ㅆ SS /s/͈                  Sseu-iSS       Three                               쌀(ssal), 쌈
+                                                                                            (ssam)
+              ㅉ JJ /tɕ/͈                 JJeu-iJJ                  jjigae, jjimjilbang      찌개,찜질방
+              ㅁ M /m/                    Meu-iM         moon       maknae, mukbang,         막내, 먹방, 만화
+                                                                   manhwa
+              ㅂ B/P /b/~/p/              Beu-iP         bat        bulgogi, bingsu          불고기, 빙수
+
+              ㅍ P /pʰ/                   Veu-iV         park       pansori, ghting          판소리, 파이팅
+              ㅸ V /β/                    Peu-iP         Victory
+              ㅃ PP /p/͈                  BBeu-iPP                  oPPa                     오빠
+
+              ㄴ N /n/                    Neu-iN         net        noona, noraebang         누나
+
+              ㄷ D/T /d/~/t/              Deu-iD         door       daebak, dalgona          대박
+
+              ㅌ T /tʰ/                   Tel-iT         time       taekwondo, trot          태권도, 트로트
+
+              ㄹ R/L /ɾ/~/l/              Reu-iL         rain       ramyeon                  라면
+
+              ㄸ TT /t/͈                  TTeu-iTT                  tteokbokki               떡볶이
+
+              ㄱ G/K /ɡ/~/k/              Geu-iG         gold       kimchi, kimbap           김치, 김밥
+
+              ㅋ K /kʰ/                   Keu-iK         kite       K-drama                  K-드라마, 카톡
+                                                                                            (katalk)
+                                                                                            떡볶이, 까치
+              ㄲ     KK /k͈/              GGeu-iGG                  tteokboKKi
+                                                                                            (ggachi)
+                                         #Initial consonant name and example
+
+
+                  278
+
+
+
+
+         fi
+    fi
+￼
+
+         Han                  IPA Example       Oxford
+         gul English Romani Pronu Word          Korean   Korean   Recommended
+         Vow Name     zation nciati (English)    Word     Word       Words
+          el                   on
+              Hanul         /ʌ/
+         ㆍ     -A        uh (app bUt                     엇!(uht!)
+                            rox)
+         ㅡ      Eu       eu /ɯ/   rosEs hangEUl (한)글     음식(eumsik)
+         ㅣ       I        i /i/    sEE    unnI (언)니      이름(ireum)
+         ㅗ      O         o /o/   Open   Oppa,   오빠, 오   오징어(ojingeo)
+                                        Of cetel 피스텔
+         ㅏ      A         a /a/  fAther  oppA,   (오)빠, 아 아이(ai)
+                                        Ajumma 줌마
+         ㅜ      U         u /u/    blUE nOOna 누(나)       운동(undong)
+         ㅓ      Eo       eo /ʌ/   EArth   Unni 언(니)
+         ㅛ      Yo       yo /jo/  YOga aegYO (애)교
+         ㅑ      Ya       ya /ja/   YArd                  야!(ya!), 약속
+                                                         (yaksok)
+         ㅠ      Yu       yu /ju/ YOUth hallYU (한)류       유리(yuri)
+         ㅕ     Yeo      yeo /jʌ/ YOUng hYEOng 형          여름(yeoreum)
+
+
+
+
+                      #Medial vowel name, pronunciation, example
+
+
+         Appendix - Guide notice                                           279
+
+
+
+
+￼   fi
+

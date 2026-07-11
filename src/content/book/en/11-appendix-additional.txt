@@ -1,0 +1,1348 @@
+       Appendix
+
+Additional Explanation
+    282
+
+
+
+
+￼
+    Additional Explanation
+
+
+    1. ㅇ and ㆁ
+
+    In Hunminjeongeum, the initial consonant ㅇ is described as
+    having a phonetic value similar to [ɦ]. In practice, however, it
+    is almost devoiced, leaving only the breath sound, which
+    resembles [ɦ]̥ , or is completely silent, represented as [∅] or
+    [◌]. Therefore, in the translation, the pronunciation of the
+    initial consonant ㅇ in Hunminjeongeum is represented as
+    [◌] to visually express its meaning and presence.
+    In Hunminjeongeum, when ㅇ is used as a nal consonant,
+    it is silent [∅], while ㆁ as a nal consonant is pronounced
+    as [ŋ].
+    Starting from the 17th century, ㅇ replaced ㆁ, becoming [◌]
+    in the initial position and [ŋ] in the nal position, just as it is
+    pronounced in current Hangul.
+    In current Hangul, the initial consonant ㅇ is the most
+    fundamental letter that marks the beginning of Hangul
+    consonants. Despite its presence as an independent letter,
+    it has no phonetic value, making it a uniquely special
+    character. Interestingly, it does not even have an of cial
+    representation in the IPA (International Phonetic Alphabet)
+    Appendix - Additional explanation                               283
+
+
+
+
+                                               fi
+                                        fi
+                                fi
+                       fi
+￼
+    standards. Both [∅] and [◌] are unof cial notation methods
+    used to indicate silence.
+    The symbol ◌ bears a conceptual resemblance to the
+    number 0 (zero), symbolizing emptiness or nonexistence.
+
+
+    2. Initial consonants missing in current Hangul
+
+    ㆁ (ŋeu-iŋ): Pronounced as [ŋ], it has been replaced by ㅇ in
+    current Hangul.
+    ㆆ (Yeorin Heu-iH): A sound similar to [ʔ]. It is positioned
+    phonetically between ㅇ and ㅎ.
+    ㅿ (Zeu-iZ): A sound close to [z].
+
+    Although not basic initial consonants, ㅸ and ㆅ are also no
+    longer in use:
+    ㅸ (Yeorin Beu-iB): Pronounced as [β], representing a soft
+    lip sound.
+    ㆅ (Ssang HHeu-iHH): A sound similar to [x], representing a
+    double aspiration.
+
+
+
+
+    284
+
+
+
+
+                            fi
+￼
+    3. Gongwae and Bokgwae, Jasi, Chuksi, Insi
+
+    Gongwae (䷁) and Bokgwae (䷗) are hexagrams from the I
+    Ching that represent the cycles and changes of nature.
+    Gongwae symbolizes darkness and the Earth. It embodies
+    qualities of stillness and receptivity. It represents a state
+    where everything is paused, energy is gathered, and
+    preparations are made for the next change. In contrast,
+    Bokgwae signi es the end of darkness and the coming of
+    dawn. It symbolizes new beginnings and recovery. It marks
+    the time when stagnation ends, life force and hope are
+    renewed, illustrating the natural cycle of endings and
+    beginnings.
+
+    In the explanation of the vowel base characters ㆍ ㅡ ㅣ,
+    the terms Jasi, Chuksi, and Insi are introduced. These are
+    concepts from traditional timekeeping, which divides the day
+    into twelve segments, re ecting the ow of nature and the
+    changes in life energy.
+    Jasi represents the time when ㆍ (Hanul-A) opens, from 11
+    PM to 1 AM. It is the moment when one day ends, and a
+    new day begins. During this period, darkness is at its
+    deepest, energy is calm, and forces are condensed,
+    symbolizing preparation for renewal.
+
+    Appendix - Additional explanation                               285
+
+
+
+
+                                  fl
+                   fl
+     fi
+￼
+    Chuksi represents the time when ㅡ (eu) opens, from 1 AM
+    to 3 AM. This is when the Earth slowly begins its activity,
+    and life starts to awaken.
+    Insi represents the time when ㅣ(i) opens, from 3 AM to 5
+    AM. At this moment, the energy of brightness becomes fully
+    active, life sprouts, and human activity begins.
+    These three time periods symbolize the transition from night
+    to day, demonstrating the natural cycle of darkness giving
+    way to light.
+
+
+    4. Fanqie method for representing Chinese pronunciation
+
+    The Fanqie method is a traditional Chinese phonetic system
+    used to represent the pronunciation of Chinese characters
+    by dividing a character into its initial consonant and the rest.
+    The initial sound is called the shengmu (initial), and the
+    remaining sound, which includes the medial and nal
+    sounds, is called the yunmu (rhyme).
+    For example, the Chinese character dong, representing the
+    east, is phonetically represented using the initial sound of
+    the character deok, which starts with the consonant ㄷ, and
+    the medial and nal sounds of the character hong, which
+    ends with ㅗ and ㅇ.
+
+    286
+
+
+
+
+                                          fi
+      fi
+￼
+          Therefore, the pronunciation of dong is represented by the
+          combination of deok + hong (덕홍). It is 동 in Hangul.
+          The Fanqie method is linked to the principles of Yin and
+          Yang in Chinese phonology. In contrast, Hangul is
+          structured with Cheotgakkeut (첫가끝: initial, medial, and
+           nal sounds), re ecting the Balk-I-Eo philosophy of
+          Hasattang(the Three Philosophy: Heaven, Human, Earth).
+
+
+          5. Initial consonants for representing Chinese characters
+
+          There are initial sounds present in the Eonhae version of
+          Hunminjeongeum that are not included in the original
+          Haeryebon. Although Jeongeum was designed to represent
+          all sounds, the Eonhae version re ects the additional
+          phonetic considerations of Chinese pronunciation, given the
+          in uence of Chinese culture during that era.
+          The Eonhae version of Hunminjeongeum is a Korean
+          interpretation of the original Haeryebon written by King
+          Sejong. What is commonly referred to as Hunminjeongeum
+          Eonhaebon is included in the preface of Worinseokbo.
+          Unlike the Haeryebon, the Eonhae version contains
+          additional initial sounds speci cally to capture Chinese
+          phonetics.
+          In the explanation of Hunminjeongeum Eonhaebon, the
+          Appendix - Additional explanation                           287
+
+
+
+
+                                     fl
+                               fi
+             fl
+     fl
+￼
+fi
+    concept of Chidueum (dental initials) is described as "the
+    tongue touching the upper teeth." The character
+    represents a sound similar to ㅅ, but it does not undergo
+    palatalization, meaning the tongue does not move upward
+    toward the palate. Jeongchieum is described as "the tongue
+    touching the lower gums.”
+    Since Korean does not distinguish between Chidueum and
+    Jeongchieum, these sounds naturally disappeared except in
+    some documents where the primary purpose was to
+    represent Chinese pronunciation.
+
+    Content in the Eonhaebon in the preface of Worinseokbo
+
+    In Chinese phonetics, there is a distinction between
+    Chidueum and Jeongchieum.
+    Characters like                are used for Chidueum.
+    Characters like                are used for Jeongchieum.
+    However, characters representing molar sounds, tongue
+    sounds, lip sounds, and throat sounds are used broadly for
+    Chinese pronunciation without such distinctions.
+
+
+
+
+    288
+
+
+
+
+￼
+             6. Vowel harmony
+
+             Vowel harmony refers to the natural pairing of
+             bright(Balkeum) medial vowels with other bright vowels and
+             dark(Eodum) medial vowels with other dark vowels.
+             Bright vowels such as ㅗ (o) and ㅏ (a) are associated with
+             the imagery of the sky, evoking a sense of uplift and
+             lightness. In contrast, dark vowels like ㅜ (u) and ㅓ (eo) are
+             linked to the imagery of the earth, conveying a heavier and
+             calmer feeling. For example, in words like malhanda (말한다,
+             "to speak") and norara (놀아라, "to play"), bright vowels
+             harmonize with other bright vowels. Meanwhile, in
+             meokneunda (먹는다, "to eat") and ureora (울어라, "to cry"),
+             dark vowels pair with other dark vowels.
+             This principle is rooted in the Hasattang (Heaven Human
+             Earth) philosophy that underlies the creation of vowels in
+             Hunminjeongeum. It not only contributes to the naturalness
+             of Korean pronunciation but also adds a musical quality to
+             the language.
+             Bright vowel blends(Balk-Balk): cholrang-cholrang (촐랑촐
+             랑), sallang-sallang (살랑살랑), kkangchong-kkangchong (깡
+             총깡총), ajang-ajang (아장아장), banjjak-banjjak (반짝반짝)
+
+
+
+             Appendix - Additional explanation                            289
+
+
+
+
+￼
+    7. Vowel Harmony: Bright and Dark Vowel Blends
+                  Dark vowel blends(Eo Eo): huljeok-huljeok (훌쩍훌쩍),
+                  pungdeong-pungdeong (풍덩풍덩), deolgeong-deolgeong (덜
+                  컹덜컹), chulleong-chulleong (출렁출렁)
+
+
+                  7. The order of Hangul consonants and vowels
+
+                  Here are the orders of initial consonants and media vowels
+                  in Jeongeum.
+                  Jeongeum consonant order: ㄱㅋ ㄴㄷㅌㄹ ㅁㅂㅍ ㅅㅈ ㅇ
+                  ㅎ
+                  Jeongeum vowel order: ㆍㅡ l ㅗㅏㅜㅓ ㅛㅑㅠㅕ
+
+                  The origin of the order and naming of current Hangul
+                  characters dates back to 1527 in Hunmongjahoe by Choi
+                  Sejin. He introduced the consonants and vowels in the order
+                  we use today. Here are the current orders of consonants
+                  and vowels.
+                  Current consonant order: ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ
+                  Current vowel order: ㅏㅑㅓㅕ ㅗㅛㅜㅠ ㅡㅣ
+
+                  Re ecting the order in Jeongeum, we may change these
+                  orders as below with minimal rearrangement.
+                  Revised consonant order: ㄱㅋ ㄴㄷㅌㄹ ㅁㅂㅍ ㅅㅈ ㅇㅎ
+                  Revised vowel order: (ㆍ) l ㅡ ㅏㅑㅓㅕ ㅗㅛㅜㅠ
+
+                  290
+
+
+
+
+￼   fl
+         7. Vowel Harmony: Bright and Dark Vowel Blends
+         Suggested order for basic letters
+         I propose two revised orders for Hangul letters.
+         The rst reorders initial consonants based on the Wonsene
+         (ㅇㅅㅁ) principle, while preserving the original vowel
+         sequence of Jeongeum. For Korean learners, this approach
+         may offer insights into the foundational principles behind
+         Hangul's creation.
+         The second presents a more consistent reordering of both
+         consonants and vowels, fully aligned with the Wonsene (ㅇ
+         ㅅㅁ) framework, according to the concept of Hasattang.
+         Vowels can be categorized based on whether priority is
+         given to those with one dot (ㆍ) or two. This structure may
+         be more intuitive, especially for beginners. For this reason, I
+         have adopted it with the second vowel order in the “Learn
+         Hangul by yourself” section of the appendix.
+
+         First suggestion
+         Wonsene consonant order: ㅇㅎ ㅅㅈㅁㅂㅍ ㄴㄷㅌㄹ ㄱㅋ
+         Jeongeum vowel order: ㆍㅡ l ㅗㅏㅜㅓ ㅛㅑㅠㅕ
+
+         Second suggestion
+         Wonsene consonant order: ㅇㅎ ㅅㅈㅁㅂㅍ ㄴㄷㅌㄹ ㄱㅋ
+         Wonsene vowel order 1: ㆍ l ㅡ ㅏㅓㅑㅕ ㅗㅜㅛㅠ
+         Wonsene vowel order 2: ㆍ l ㅡ ㅏㅑㅓㅕ ㅗㅛㅜㅠ
+         Appendix - Additional explanation                            291
+
+
+
+
+    fi
+￼
+          8. The number of sounds in Hangul
+
+
+
+          39.8 billion sounds
+
+          The base consonants of Jeongeum are composed of ve
+          individual characters, while the base vowels consist of three
+          characters. These basic characters expand through
+          additional strokes (Deotgeueum) and combinations
+          (Eouleum).
+          The core characters of Jeongeum include 17 initial
+          consonants, 11 medial vowels. The initial sound, medial
+          sound, and nal sound can each be combined with up to
+          three characters. According to the creation principles of
+          Jeongeum, this structure enables the formation of about
+          39.8 billion complete syllables (온글자 Ongulja). This
+          enormous number shows that Hangul is designed to capture
+          every possible sound in nature.
+          When calculating the number of initial sounds, we consider
+          cases where a single consonant is used, where two
+          consonants are combined, and where three consonants are
+          combined. This gives us 17 + 17×17 + 17×17×17, resulting
+          in 5,219 unique initial units. The same number applies to
+           nal sounds. For medial vowels, the calculation is 11 +
+          11×11 + 11×11×11, which gives 1,463 units.
+          292
+
+
+
+
+                                                   fi
+     fi
+￼
+fi
+    A complete Jeongeum syllable is formed by combining an
+    initial sound, a medial vowel, and a nal sound. The total
+    number of possible combinations is initial × medial × nal, or
+    5,219 × 1,463 × 5,219, which equals 39,849,136,943. This
+    means more than 39.8 billion possible syllables can be
+    created, capable of containing every sound found in nature.
+
+
+    1.6 Million Hangul syllables based on Unicode Hangul Jamo
+
+    The global standard character set, Unicode, includes 11,172
+    pre-composed Hangul syllables that are currently used in
+    modern Hangul. In addition to these, there is a separate set
+    of Hangul Jamo codes in Unicode speci cally for combining
+    Hangul syllables. This includes not only modern Hangul but
+    also historical Hangul characters (Old Hangul Jamo).
+    By combining these individual characters (Jamo), it is
+    possible to create 1.6 million Hangul syllables (Ongulja) that
+    can be displayed and used on computers.
+    This means that even now, it is technically feasible to
+    generate Jeongeum Hangul that fully embraces the creation
+    principles of Hunminjeongeum. In fact, there are at least
+    three fonts available today that allow all 1.6 million syllables
+    to be displayed on a computer screen.
+
+
+    Appendix - Additional explanation                            293
+
+
+
+
+                                              fi
+                                        fi
+                                  fi
+￼
+          In the full set of combinable Hangul Jamo characters in
+          Unicode, there are 125 initial sounds, 94 medial vowels, and
+          138 nal sounds. Each set includes an empty element.
+          When calculated by total code capacity, 125 × 95 × 138
+          results in 1,638,750 possible sound combinations. However,
+          this number includes cases where the initial or medial
+          sounds do not actually exist.
+          When forming a complete Hangul syllable, the nal sound
+          can be omitted, but the initial and medial sounds cannot.
+          Therefore, excluding those two cases, the actual number of
+          valid syllables is 124 × 94 × 138, which equals 1,608,528.
+          The full set of 1.6 million possible syllables has been made
+          accessible. [View 1.6 million Hangul sounds]
+
+
+          11,172 Unicode Hangul sounds
+
+          The total number of complete Hangul syllables (Ongulja) in
+          modern Hangul is 11,172, and these are registered in the
+          global standard character set, Unicode. These syllables are
+          fully accessible through computers and digital devices.
+          The number of Hangul syllables formed with only an initial
+          and a medial sound is calculated as 19 × 21 = 399. The
+          number of syllables formed with an initial, a medial, and a
+           nal sound is 19 × 21 × 27 = 10,773. Adding these together
+          294
+
+
+
+
+                                            fi
+     fi
+￼
+fi
+          results in a total of 399 + 10,773 = 11,172 syllables.
+          There are 19 initial consonants, 21 medial vowels, and 27
+           nal consonants, as follows.
+          The 19 initial consonants consist of 14 basic consonants (ㄱ
+          ㅋ ㄴ ㄷ ㅌ ㄹ ㅁ ㅂ ㅍ ㅅ ㅈ ㅊ ㅇ ㅎ) and 5 double
+          consonants (ㄲ ㄸ ㅃ ㅆ ㅉ).
+          The 21 medial vowels include 2 base vowels (ㅡ ㅣ), 4
+          primary vowels (ㅗ ㅏ ㅜ ㅓ), 4 secondary vowels (ㅛ ㅑ ㅠ
+          ㅕ), 9 two-element compound vowels (ㅐ ㅒ ㅔ ㅖ ㅘ ㅚ ㅝ
+          ㅟ ㅢ), and 2 three-element compound vowels (ㅙ ㅞ).
+          The 27 nal consonants are made up of 14 basic
+          consonants (ㄱ ㅋ ㄴ ㄷ ㅌ ㄹ ㅁ ㅂ ㅍ ㅅ ㅈ ㅊ ㅇ ㅎ), 2
+          identical double consonants (ㄲ ㅆ), and 11 complex nal
+          consonants formed from different combinations (ㄳ ㄵ ㄶ ㄺ
+          ㄻ ㄼ ㄽ ㄾ ㄿ ㅀ ㅄ).
+
+          The 11,172 Hangul syllables(Ongulja) re ect the complete
+          phonetic range of modern Hangul and are compatible with
+          global digital standards through Unicode. This system
+          allows Hangul to maintain its structural principles while
+          being fully represented in modern technology.
+
+
+
+
+          Appendix - Additional explanation                           295
+
+
+
+
+                                                    fi
+                                              fl
+     fi
+￼
+fi
+      Initial                            ㅇㅎ ㅅㅈㅊ ㅁㅂㅍ
+              Basic consonants 14
+     consona                              ㄴㄷㅌㄹ ㄱㅋ
+       nts
+        19    Tense consonants 5          ㅆㅉㅃㄸㄲ
+                         Root vowels 2         (ㆍ) ㅣ ㅡ
+             Simple    First born
+                                       ㅏㅓㅗㅜ
+             vowels 10 vowels 4
+     Medial
+                        Re-born
+     vowels                            ㅑㅕㅛㅠ
+                       vowels 4
+       21
+                       Two letter ㅐ ㅒ ㅔ ㅖ ㅘ ㅚ ㅝ ㅟ
+            11
+            Compou d
+                     combination 9       ㅢ
+                      Three letter
+            vowels                      ㅙㅞ
+                     combination 2
+                                         ㅇㅎ ㅅㅈㅊ ㅁㅂㅍ
+             Basic consonants 14
+                                          ㄴㄷㅌㄹ ㄱㅋ
+       FInal
+     consona
+             Tense consonants 2              ㅆㄲ
+        nts  Complex consonants 11           ㅄ
+        27                               ㄺㄻㄼㄽㄾㄿㅀ
+                                            ㄵㄶ
+                                             ㄳ
+    67 phonemes
+    Initial consonants + media vowels + nal consonants
+      = 19 + 21 + 27 = 67
+
+    11,172 syllables
+    CV: initial consonants + medial vowels = 19 x 21 = 399
+    CVC: initial consonants + media vowels + nal consonants
+      =19 x 21 x 27 = 10,773
+
+    Total = CV + CVC = 399 + 10,773 = 11,172
+
+               #Hangul 11,172 sounds, syllables #Unicode
+
+
+    296
+
+
+
+
+                                    fi
+                            fi
+￼
+    9. 123 mystery of ㅇㅁㅅ
+
+
+    The Korean language existed long before Hangul was
+    created. Yet, the shapes of a circle, square, and triangle,
+    symbolizing Heaven, Earth, and Human, are re ected in the
+    initial consonants of the words for "one," "two," and "three"
+    in Hangul: ㅇ ㅁ ㅅ.
+    Astonishingly, this pattern extends beyond Korean. In major
+    world languages, the initial consonant shapes for the
+    numbers 1, 2, and 3 align with ㅇ ㅁ ㅅ when written in
+    Hangul:
+    Hana (하나), One (원), Ichi (이치) → ㅇ
+    Dul (둘), Two (투), Ni (니) → ㅁ
+    Set (셋), Three (쓰리), San (산) → ㅅ
+    This mirrors the Samjae (Three Elements) principle of
+    Heaven (ㅇ), Earth (ㅁ), and Human (ㅅ) and their symbolic
+    shapes: the circle, square, and triangle. If we apply the
+    concept of 0, then the sequence of ㅇ, ㅁ, and ㅅ would
+    correspond to 0, 1, and 2, rather than the typical 1, 2, and 3,
+    as suggested in this book.
+
+
+
+
+    Appendix - Additional explanation                             297
+
+
+
+
+                                        fl
+￼
+    A universal principle across languages
+    All humans share the same vocal apparatus: mouth, tongue,
+    throat, etc. The numbers 1, 2, and 3 are fundamental
+    concepts, and it is likely that the easiest sounds to produce
+    were naturally selected for these words. There may be a
+    universal principle at work here.
+    Since King Sejong designed Hangul according to the
+    principles of nature, this shared phenomenon across
+    languages may not be a coincidence but rather evidence of
+    the same natural principles in action.
+
+
+    Symbolism of 1, 2, and 3 in sound and shape
+    1 is represented by throat sounds like ㅇ and ㅎ,
+    symbolizing the sky with its circular form.
+    2 is represented by tongue sounds like ㄴ, ㄷ, ㅌ, ㄹ,
+    symbolizing the Earth with its square-like form.
+    3 is represented by teeth sounds like ㅅ, resembling a
+    standing human and taking the form of a triangle.
+    This is one of the mysteries that suggest Hunminjeongeum
+    was created based on universal principles of nature, shared
+    by all of humanity.
+
+
+
+
+    298
+
+
+
+
+￼
+                     1                  2               3
+
+                하 둘 셋         나
+                            Hana              Dul               Set
+
+
+                원 투 쓰        One              Two              리 Three
+
+
+
+                이 니 산       치
+                           Ichi              Ni                San
+
+
+           Number                  1                2              3
+           Wonnese                 ㅇ                ㅁ              ㅅ
+                                                                 ㅅㅆ
+     Initial Consonants                                      (Phonologically
+                                  ㅇㅎ          ㄴㄷㅌㄹ           Similar Sounds:
+          In Hangul
+                                                               S, T, Th, Tr)
+    Korean                   Hana (하나) Dul (둘)              Set (셋)
+    English                  One (원)   Two (투)              Three (쓰리)
+    Japanese                 Ichi (이치) Ni (니)               San (산)
+                                       Èr(얼), Liǎng
+    Mandarin                 Yī (이)                         Sān (산)
+                                       (량)
+    Hindi                    Ek (에크)   Do (도)               Teen (틴)
+    Spanish                  Uno (우노)  Dos (도스)             Tres (트레스)
+    French                   Un (앙)    Deux (되)             Trois (트루아)
+    Russian                  Odin (아진) Dva(드바)              Tri (트리)
+    Portuguese               Um (움)         Dois(도이스)       Três (트레스)
+    Urdu                     Ek (에크)        Do(도)           Teen (틴)
+
+
+
+
+    Appendix - Additional explanation                                     299
+
+
+
+
+￼
+         10. The number ‘0’ and the initial sound ‘ㅇ’
+
+
+         0 and ㅇ(Euing)are the starting point of numbers and letters.
+         In the world of numbers, there is 0—a form that exists yet
+         holds no value, carrying profound signi cance. In the world
+         of letters, Hangul has the initial consonant ㅇ.
+         In mathematics, 0 represents "nothingness," yet this state of
+         emptiness is a groundbreaking invention that made the
+         order of numerical systems possible. Likewise, in Hangul, ㅇ
+         is a consonant without sound, yet it serves as the structural
+         foundation for all syllables(Ongulja).
+         Professor Nomura Hideki, in 『The Birth of Hangul』,
+         described ㅇ as the "zero consonant" that supports the
+         dynamic transformation of sound. As an initial consonant
+         with no sound value, ㅇ allows the nal consonant of a
+         preceding syllable to be carried over and pronounced at the
+         beginning of the next.
+         Although the number 0 appears to represent "nothing," it
+         contains within it the power to create order, structure, and
+         in nite possibilities. It is not merely a symbol but a
+         philosophical leap and a civilizational innovation that
+         transformed the way we think.
+
+         300
+
+
+
+
+                                       fi
+                                  fi
+    fi
+￼
+    Just as the number 0 revolutionized mathematical thinking,
+    the consonant ㅇ offers a revolutionary framework for the
+    structure of writing. These two symbols, which reinterpret
+    “emptiness” in new ways, contain within their circular forms
+    —the shape of the sky—the seeds of human thought and
+    civilization.
+    At the time of Jeongeum’s creation, the cosmological
+    worldview of Heaven, Hanul-Above, Earth, Ttang-Below,
+    Life, Saram-in-Between (Hattangsa) was prevalent. This
+    worldview was often symbolized by “one, two, three” (1, 2,
+    3). In today’s world, where the concept of 0 is widely
+    accepted, the foundational principles of Hangul—
+    represented by ㅇㅅㅁ and ㆍㅣㅡ—can correspond to 0, 1,
+    and 2, respectively.
+    This shows that the Korean philosophy of Hasattang and
+    Wonsene is deeply connected with the universal principles
+    of numbers. The sequences and philosophical frameworks
+    of ㅇㅅㅁ, ㆍㅣㅡ, and 0 1 2 go beyond super cial
+    similarities in form; they embody the order of the universe.
+    Their alignment suggests a universally shared structure of
+    meaning. As with the number 0, a deeper exploration into
+    the meaning of ㅇ is needed.
+
+
+    Appendix - Additional explanation                            301
+
+
+
+
+                                        fi
+￼
+                        Category      "0" (Zero as a       "ㅇ" (Hangul Letter)          Connected Meaning
+                                        Number)
+                                                                                     Though it represents
+                                  The number of                                      “nothingness (mu),” it
+                        Existence absence                 The sound of absence
+                                                                                     functions as presence
+                                                                                     within a system
+                                  Maintains place         Maintains syllable
+                                                          structure (an initial      Framework of order,
+                         Function value; enables                                     structural foundation
+                                  numerical systems       consonant with no
+                                                          sound)
+                        Philosophi Emptiness (bim,        Silence; the potential     A space of possibility, a
+                            cal    void); the potential   before sound               turning point that creates
+                         Meaning before existence                                    being from non-being
+                                   Circle                 Circle as a consonant,     Heaven, the universe, one
+                          Shape                           or the dot ㆍ (Hanul-A)     of the three geometric
+                         Meaning                          as a vowel                 elements (ㆍㅡㅣ);
+                                                                                     wholeness, cyclicality
+                                  A fundamental shift
+                                  in mathematical         A revolutionary            A leap in abstract
+                        Revolutio thought; enables        foundation in writing      reasoning; a civilizational
+                          nary    positional notation;    structure; systematic      invention; innovation in the
+                         Nature shared numerical          combination of sound       transmission of knowledge
+                                  system across           and script
+                                  humanity
+                                                          “Heaven” in Korea’s         Re ects cosmological
+                                   Indian philosophy      Hasattang    philosophy     thought in Eastern
+                          Origin (bim, śūnya,             (Heaven–Earth–              philosophy; fusion of
+                                   meaning “void”)        Human);    principle        practicality and
+                                                          behind the creation of metaphysics
+                                                          Hunminjeongeum
+                         Modern Foundation of the         Scienti  c structure  of    Cycles   of  emptiness  and
+                        Signi can digital revolution      Hangul;   basis  for Hangul fullness;  a  bridge between
+                            ce     (binary system)        input systems    in the     the  digital and  analog
+                                                          digital age                 worlds
+                        Mathemati Additive identity (a +  Combines    with  vowels    A xed point in a system;
+                           cal /   0 = a); multiplicative to generate a range of center of relational
+                        Linguistic absorbing element      sounds;   serves   as a     meaning; balance between
+                         Relation (a × 0 = 0)             neutral  base  for          change and constancy
+                                                          consonants
+                                                          Originated from “Heaven
+                                   Evolved from a dot is round” in Hasattang A convergence of natural
+                        Developm into a circle;           and Wonnese (Circle– observation and
+                           ent     independently          Square–Triangle)            philosophical thought; an
+                         Process invented in various philosophy; evolved into independent discovery of a
+                                   cultures               Hanul-A (ㆍ); combined universal principle
+                                                          with phonetic principles
+
+
+                                                #Number 0 and Hangul initial letter ㅇ
+
+
+                              302
+
+
+
+
+                   fi
+              fi
+         fl
+    fi
+￼
+                               0 1 2
+
+
+                              ㆍㅣㅡ
+                                         시므
+
+
+
+
+    #012 #ㅇㅅㅁ #ㆍ ㅣ ㅡ # 시므 #Number of Hangul root characters
+
+
+     Appendix - Additional explanation                   303
+
+
+
+
+￼
+    11. Hangul and CHeongbugyeong
+
+    The Cheonbugyeong, The Universe Principle, is known as a
+    scripture passed down through the ages of the Korean
+    people. It is said to contain the fundamental principles of the
+    universe. While there is much debate regarding its
+    authenticity and interpretation, it is interesting enough that
+    the principles of Hangul creation, as documented in the
+    Haeryebon, are connected to the content of the
+    Cheonbugyeong.
+    The most representative link is the universal principle of
+    Heaven, Earth, and Human. This is the Hasattang (Hanul,
+    Saram, Ttang: Heaven, Human, Earth), or Samgeuk or
+    Samjae philosophy of Korea. Just as the cosmos operates
+    in harmony, divided into three elements, Hangul also forms
+    a complete sound by being divided into initial consonants,
+    medial vowels, and nal consonants that are then
+    recombined. This principle directly re ects the fundamental
+    order that creates and operates all things in the universe.
+    Furthermore, just as the human being is the most important
+    entity in the universe, in Hangul, the medial vowels, which
+    represent the role of humans, serve as the core component
+    that completes a sound. This shows that the principles of
+
+
+    304
+
+
+
+
+                             fl
+           fi
+￼
+    Hangul creation are based on a deep philosophical thought
+    of the Korean people that connects the universe and
+    humanity, transcending a simple writing system.
+    In this way, both Hangul and the Cheonbugyeong are based
+    on the Samgeuk principle and share the human-centered
+    philosophy that Human is Heaven. It is no coincidence that
+    the philosophy of the Korean people, passed down for
+    thousands of years, had a profound in uence on King
+    Sejong's creation of Hangul. These two great cultural
+    heritages both embody the spirit of our nation that values
+    humanity most within the order of the cosmos.
+
+
+
+
+          #Cheonbugyung and Hattangsa(Heaven, Earth, Human)
+
+
+    Appendix - Additional explanation                            305
+
+
+
+
+                                        fl
+￼
+                  CHeongbugyeong                     Similarities with the Haeryebon
+    The beginning of One is One without         • The creation process of Hangul, which
+    beginning.                                    resembles the creation of the universe
+    Though divided into Heaven, Earth, and      • The core principle of Hangul creation as
+    Humanity, the fundamental essence             Hasattang (Samjae, Samgeuk)
+    remains unchanged.                          • The Hasattang principle for vowels and
+    Heaven is One that emerged from that One. the system of movement and form for
+    Earth is Two that emerged from that One.      consonants
+    Humanity is Three that emerged from that • The completion of a sound through the
+    One.                                          harmony of initial, medial, and final
+    One accumulates to complete Ten.              sounds
+    All things exist in the harmony of Three.
+                                                • Principle of Hangul Creation: Both
+                                                  consonants and vowels can be written up
+                                                  to three times in succession.
+    Heaven embraces Two to become Three. • Hasattang is contained within the initial,
+    Earth embraces Two to become Three.           medial, and final sounds.
+    Humanity embraces Two to become Three. • RepresentingHasattang, the initial,
+    The great Three unite as One to become        medial, and final sounds harmonize to
+    Six.                                          complete all sounds.
+    Seven, Eight, Nine continue endlessly.One • The harmony of consonants and vowels
+    without end.                                  is achieved through a principle of Balk-I-
+                                                  Eo(Balkeum-Ieum-Eodum) and
+                                                  Daum(The Five Movements).
+                                                • The origin of sound is ㆍ (Hanul-A),
+    Through the movement of Heaven, Earth,        representing Heaven.
+    and Humanity, Heaven's energy is formed, • The creation principle of consonants and
+    circulates with Earth's energy, and finally   vowels. (e.g., Heaven and Earth
+    Heaven becomes One.                           harmonize to form 'ㅗ' and ‘ㅜ')
+    Going ten thousand times and returning ten • The initial sound (Heaven) and the final
+    thousand times, though the function may       sound (Earth) form the universe, but the
+    change, the fundamental essence never         medial sound (Human) completes the
+    changes.                                      sound.
+    The fundamental essence is Mind.            • The medial sound, representing Human,
+    Following the example of the Sun, it shines is the most important.
+    endlessly bright.                           • The basic vowels are expanded through
+    Humanity completes the unity of Heaven        the involvement of 'ㅣ', which represents
+    and Earth as One.                             the human. (e.g., ㅣ+ㅏ=ㅕ)
+    The completion of One is
+                             #Cheonbugyung and Hangul creation
+
+
+            306
+
+
+
+
+￼
+    12. Hangul, a universal writing system
+
+
+    A feature-based writing system is a term in graphemics
+    introduced by Professor Geoffrey Sampson of the University
+    of Sussex in his 1985 book Writing Systems, to describe the
+    unique characteristic of Hangul in which phonological
+    features are directly re ected in letter shapes.
+    A featural writing system visually represents the elements
+    that constitute speech sounds by encoding the shapes of
+    articulatory organs or the acoustic properties of sounds into
+    written characters.
+    Hunminjeongeum, Jeongeum, was designed so that both
+    consonants and vowels were modeled on the forms of
+    human speech organs and symbols of the Heaven-Human-
+    Earth trinity, while variations in sound strength and quality
+    were systematized through the addition or combination of
+    strokes.
+    For example, ㄱ was modeled after the shape of the tongue
+    root blocking the throat, and by adding a stroke to ㄱ, the
+    aspirated sound ㅋ was created. Owing to these featural
+    characteristics, Hangul is widely regarded as the only
+    writing system in the world that exhibits a scienti c and
+    systematic
+    Appendix - Additional explanation                            307
+
+
+
+
+                                         fi
+                fl
+￼
+     correspondence between sound and script.
+     The excellence of Hangul can also be illuminated from a
+     new perspective through the theories of the world-renowned
+     linguist Noam Chomsky. Through his theory of Generative
+     Grammar, Chomsky argued that humans are innately
+     endowed with the ability to generate an in nite number of
+     sentences from a nite set of rules. This idea later
+     developed into the theory of Universal Grammar, which
+     posits that all human languages share a common deep
+     structure.
+     Although Chomsky’s theory does not directly address writing
+     systems, applying this conceptual framework to script
+     design further clari es the unique status of Hangul.
+     Hangul may be interpreted as a Generative Writing System,
+     one that can represent in nitely many sounds through a
+      nite set of features and combinatory rules. Furthermore, it
+     can be regarded as a Universal Writing System in the
+     theoretical sense, possessing the potential to represent the
+     sounds of all human languages.
+     However, contemporary Hangul does not fully re ect the
+     philosophical depth and structural excellence inherent in
+     Hunminjeongeum. For Hangul to be reborn as a truly
+     universal script capable of expressing in nite sounds, the
+     original
+     308      principles underlying the creation of
+
+
+                                           fl
+                                      fi
+                                 fi
+                    fi
+               fi
+          fi
+￼
+fi
+    Hunminjeongeum must be re‑reconstructed in a modern
+    context. This is the reason the editor proposes “Hangul
+    Jeongeum” or a new Hangul Standard. Hangul Jeongeum is
+    not a mere restoration of the past, but an attempt to
+    reinterpret and carry forward the philosophy and structure of
+    Hunminjeongeum in accordance with the contemporary
+    linguistic environment.
+    Hangul Jeongeum transcends its function as a writing
+    system and possesses a distinctive structure intrinsically
+    connected to the principles of nature, acoustics, and
+    geometric order. In this respect, it is fundamentally distinct
+    from existing writing systems and carries profound
+    philosophical signi cance that extends beyond conventional
+    frameworks of graphemics.
+    In conclusion, Hangul Jeongeum may be described as a
+    truly Universal Writing System for all humanity, which
+    embodies profound natural philosophy and encompasses
+    the principles and philosophy of the universe itself.
+
+
+
+
+    Appendix - Additional explanation                            309
+
+
+
+
+           fi
+￼
+    13. SeaHangul 새한글, a new Hangul for humanity
+
+
+    Jeongeum Hangul refers to a new Hangul, 새한글
+    SeaHangul, that should be created based on the original
+    principles of Hunminjeongeum Haeryebon while considering
+    the demands of global advanced technology and modern
+    needs. It is intended for all of humanity.
+    Several consonants that were used in Hunminjeongeum are
+    no longer present in modern Korean. Characters like ㆍ ㆆ
+    ㅿ ㆁ have disappeared from standard usage. The loss of
+    ㆍ, which was described as the fundamental and supreme
+    vowel in Hunminjeongeum, represents a loss of the spirit of
+    Hangul. The dot that symbolized the sky is now called Arae-
+    a and is forgotten from everyday use.
+    King Sejong claimed that Jeongeum could even capture the
+    sound of a rooster crowing, yet despite the 11,172
+    precomposed syllables available in Unicode, modern
+    Hangul still struggles to distinguish sounds like V and F or R
+    and L. Furthermore, the order of vowels and consonants, as
+    well as the method of Hangul education, needs to be
+    realigned with its original creation principles.
+
+
+
+    310
+
+
+
+
+￼
+    If approached through the geometric elements of ㅇㅅㅁ, ㆍ
+    ㅣㅡ, and ㆍㅡㅇ (Hasattang, Wonsene, Jeomseonwon),
+    Hangul could be learned intuitively by people worldwide.
+    These simple patterns could make Hangul accessible and
+    easy to understand for anyone.
+
+    The need for restoration of Jeongeum characters
+    Characters like ㆍ ㅿ ㆆ, as well as notation systems like
+    Sunkyeongeum (rounded consonants: ㅸㅹㆄ) and double
+    consonant representations such as             , must be restored
+    according to the original Jeongeum principles. Even today,
+    Hangul Jamo in Unicode allows for the composition of 1.6
+    million Hangul syllables, and there are fonts available that
+    support this. Establishing a standard would be the rst step
+    toward realizing this vision. It is also crucial to consider the
+    adoption of three-set input methods (like the Dubeolsik and
+    Sebulsik keyboard layouts) for ef cient usage.
+
+    The call for "Hanul-A" and a 25-character Hangul set
+    The vowel ㆍ should be referred to as Hanul-A ([ʌ]) instead
+    of Arae-a. As a rst step, a restricted 25-character set has
+    been proposed, which includes:
+    Consonants: ㅇ ㅎ ㅅ ㅈ ㅊ ㅁ ㅂ ㅍ ㄴ ㄷ ㅌ ㄹ ㄱ ㅋ
+    Vowels (Jeongeum order): ㆍ ㅡ ㅣ ㅗ ㅏ ㅜ ㅓ ㅛ ㅑ ㅠ ㅕ
+    Appendix - Additional explanation                                  311
+
+
+
+
+                                             fi
+                              fi
+       fi
+￼
+    Vowels (ㅇㅅㅁ order): ㆍ ㅣㅡ ㅏㅑㅓㅕ ㅗㅛㅜㅠ
+    However, a more comprehensive effort to standardize
+    Jeongeum Hangul, 새한글, for all humanity, is necessary.
+
+
+    Historical background and the need for restoration
+
+    The current structure of Hangul was established during the
+    Japanese occupation, even before the discovery of the
+    Hunminjeongeum Haeryebon. Restoring Jeongeum is not
+    only important for modern technology and arti cial
+    intelligence but also essential for establishing cultural
+    identity during a time of national division.
+    Jeongeum Hangul could also be used to preserve
+    endangered minority languages, extending the spirit of
+    Hunminjeongeum to support linguistic diversity globally.
+    Considering the rapid changes of the last century and
+    preparing for the future, it is time to reconstruct modern
+    Hangul based on the strengths of Jeongeum.
+    This initiative requires not only collaboration between North
+    and South Korea but also the involvement of global experts
+    to optimize Hunminjeongeum for modern times and
+    humanity at large.
+
+
+
+    312
+
+
+
+
+                                       fi
+￼
+    The standardization of Jeongeum Hangul can be pursued in
+    parallel with converting the current International Phonetic
+    Alphabet (IPA) into a Hangul-based system, the
+    International Phonetic Hangul (IPH). With IPH, the sounds
+    of all the world’s languages can be transcribed easily and
+    intuitively using the Hangul script comparing to the current
+    IPA.
+
+
+
+
+                 #Jeongeum Hangul #new Hangul #새한글
+
+
+    Appendix - Additional explanation                             313
+
+
+
+
+￼
+         14. Frequency analysis of modern Hangul usage
+
+         The National Institute of the Korean Language conducted a
+         large-scale analysis of modern Korean language usage
+         based on a corpus of approximately 3 million word tokens.
+         This report includes a variety of linguistic analyses from a
+         Korean computational linguistics perspective. In connection
+         with the phoneme system of the Hunminjeongeum
+         Haeryebon, the report presents frequency data for both
+         vowels and consonants.
+         In the statistics for syllable-initial consonants (onsets), the
+         order of usage frequency of three Hasattang consonants
+         are ㅇ,ㅅ, and ㅁ. Among the ve major sound categories of
+         the Haeryebon, throat sounds (water) and tongue sounds
+         ( re) are considered the most fundamental, which is proven
+         in this report. Statistically, these categories account for 30%
+         and 23.8% of usage, respectively.
+         For medial vowels (nucleus), the base vowels ㅣ and ㅡ
+         make up 28%, while the core primary vowels ㅏㅓㅗ ㅜ ( rst
+         born) account for 49%. Combined, these two groups
+         represent 77% of all vowel use. In contrast, the palatalized
+         second-born vowels ㅑㅕㅛㅠ comprise only 7%, with ㅕ
+         alone accounting for 4.76%. Altogether, the ten basic vowels
+
+         314
+
+
+
+
+                                                        fi
+                           fi
+    fi
+￼
+         constitute 84% of usage, while the remaining 16% consists
+         of complex vowels (compound vowel combinations).
+         As for nal consonants (codas), the top three are ㅇ ㅁ ㅅ—
+         again aligning with the Hasattang consonants. The top eight
+         codas by frequency (ㄴ ㄹ ㅇ ㄱ ㅁ ㅆ ㅂ ㅅ) collectively
+         account for 95.1% of all nal consonant usage. Notably, the
+         tense consonant ㅆ, which is not one of the basic
+         consonants, is included in this high-frequency group.
+
+
+
+
+         Appendix - Additional explanation                       315
+
+
+
+
+                       fi
+    fi
+￼
+                                  Hasat                                               Double
+                                        Root All
+                                  tang                                                consona
+              Initi                     conson consona   All consonants 14: 5 sound
+                                  conso                                               nts(tens
+         Ran al                         ants   nts               clasi cation
+                            Frequ nants 5      14
+                                                                                      e
+         k of con Frequency       3                                                   sounds)
+                            ency
+         usa son count                                   ㅇ    ㅅ     ㅁ      ㄴ     ㄱ
+                            rate               ㅇㅎ ㅅㅈ     ㅎ    ㅈ     ㅂ      ㄷ     ㅋ
+         ge ants                         ㅇㅅㅁ ㅊ ㅁㅂㅍ                                    ㅆㅉㅃㄸ
+               C                  ㅇㅅㅁ                         ㅊ     ㅍ      ㅌ
+                                          ㄴㄱ ㄴㄷㅌㄹ                          ㄹ            ㄲ
+                                                  ㄱㅋ
+          1 ㅇ       2,105,587 23.7% 23.7% 23.7% 23.7% 23.7%
+          2 ㄱ       1,171,038 13.2%       13.2% 13.2%                        13.2%
+          3 ㄷ         800,785 9.0%               9.0%                   9.0%
+          4 ㅅ         756,477 8.5% 8.5% 8.5%     8.5%        8.5%
+          5 ㅈ         748,509 8.4%               8.4%        8.4%
+          6 ㅎ         635,299 7.2%               7.2% 7.2%
+          7 ㄹ         610,211 6.9%               6.9%                   6.9%
+          8 ㄴ         596,893 6.7%        6.7%   6.7%                   6.7%
+          9 ㅁ         429,661 4.8% 4.8% 4.8%     4.8%             4.8%
+         10 ㅂ         359,029 4.0%               4.0%             4.0%
+         11 ㅊ         200,266 2.3%               2.3%        2.3%
+         12 ㅌ         106,679 1.2%               1.2%                   1.2%
+         13 ㅍ          98,986 1.1%               1.1%             1.1%
+         14 ㄸ          72,604 0.8%                                                       0.8%
+         15 ㄲ          64,997 0.7%                                                       0.7%
+         16 ㅋ          48,097 0.5%               0.5%                         0.5%
+         17 ㅆ          29,184 0.3%                                                       0.3%
+         18 ㅉ          20,434 0.2%                                                       0.2%
+         19 ㅃ          16,037 0.2%                                                       0.2%
+          Total     8,870,773 100% 37.1% 57.0% 97.71% 30.9% 19.2% 10.0%23.8% 13.7%      2.29%
+
+
+
+
+                  #Usage statistics of modern Hangul initial consonants #Hasattang
+
+
+                  316
+
+
+
+
+￼   fi
+                                          First    Root    Second
+                                   Root                            Basic
+                                          born       +      born         Compoun
+          Medi                    vowels                          vowels
+    Ran                                  vowels First born vowels        d vowels
+           al                      2(3)                             10
+     k of      Frequency Freque            4         6       4
+          vow
+    usag       count     ncy rate
+           els                                                    ㅡㅣㅏㅓ
+      e                            (ㆍ) ㅏㅓㅗ ㅡㅣㅏㅓㅗ                         기본자 10
+            V                                              ㅑㅕㅛㅠ ㅗㅜㅑㅕ
+                                   ㅣㅡ      ㅜ        ㅜ                    자 외 11자
+                                                                   ㅛㅠ
+
+      0    ㆍ
+      1    ㅏ   1,926,007 21.71%        21.71%   21.71%           21.71%
+      2    ㅣ   1,355,527 15.28% 15.28%          15.28%           15.28%
+      3    ㅡ   1,151,976 12.99% 12.99%          12.99%           12.99%
+      4    ㅓ     942,819 10.63%        10.63%   10.63%           10.63%
+      5    ㅗ     862,073 9.72%          9.72%    9.72%            9.72%
+      6    ㅜ     592,419 6.68%          6.68%    6.68%            6.68%
+      7    ㅕ     422,490 4.76%                           4.76%    4.76%
+      8    ㅐ     409,768 4.62%                                             4.62%
+      9    ㅔ     393,695 4.44%                                             4.44%
+     10 ㅢ        179,818 2.03%                                             2.03%
+     11    ㅘ     162,656 1.83%                                             1.83%
+     12 ㅚ         99,794 1.12%                                             1.12%
+     13 ㅛ         94,576 1.07%                           1.07%    1.07%
+     14 ㅑ         63,728 0.72%                           0.72%    0.72%
+     15 ㅝ         57,373 0.65%                                             0.65%
+     16 ㅟ         47,506 0.54%                                             0.54%
+     17 ㅠ         47,135 0.53%                           0.53%    0.53%
+     18 ㅖ         44,394 0.50%                                             0.50%
+     19 ㅙ         11,215 0.13%                                             0.13%
+     20 ㅒ          3,769 0.04%                                             0.04%
+     21 ㅞ          2,035 0.02%                                             0.02%
+       Total   8,870,773 100%      28%    49%      77%     7%      84%       16%
+
+
+
+
+          #Usage statistics of modern Hangul medial vowels #Hasattang
+
+
+       Appendix - Additional explanation                                     317
+
+
+
+
+￼
+                                   Hasa Root All                                     Dou
+                                   ttang conso conson   All consonants 14: 5 sound   ble 8
+             Fin
+                                   cons nants ants              clasi cation         cons 받침
+         Ra al
+                                   onant 5     14                                    onan
+         nk con           Freque                        ㅇ    ㅅ     ㅁ     ㄴ     ㄱ
+                 Frequenc
+          of son          ncy                  ㅇㅎ       ㅎ    ㅈ     ㅂ     ㄷ     ㅋ
+                 y count
+         usa ant          rate      ㅇ         ㅅㅈㅊ            ㅊ     ㅍ     ㅌ              ㄴㄹㅇ
+                                         ㅇㅅㅁ
+         ge s                       ㅁ         ㅁㅂㅍ                        ㄹ           ㅆㄲ ㄱㅁㅆ
+                                          ㄴㄱ
+              C                     ㅅ        ㄴㄷㅌㄹ                                        ㅂㅅ
+                                               ㄱㅋ
+
+          1 ㄴ 1,328,090 32.7%       32.7% 32.7%                32.7%            32.7%
+          2 ㄹ 776,891 19.1%                19.1%               19.1%            19.1%
+          3 ㅇ 617,205 15.2%15.2%15.2% 15.2%15.2%                                15.2%
+          4 ㄱ 411,538 10.1%         10.1% 10.1%                      10.1%      10.1%
+          5 ㅁ 258,542 6.4% 6.4% 6.4%        6.4%           6.4%                  6.4%
+          6 ㅆ 219,186 5.4%                                                 5.4% 5.4%
+          7 ㅂ 133,729 3.3%           3.3%   3.3%           3.3%                  3.3%
+          8 ㅅ 114,592 2.8% 2.8% 2.8%        2.8%      2.8%                       2.8%
+          9 ㄶ      30,376 0.7%
+         10 ㅎ      26,948 0.7%              0.7% 0.7%
+         11 ㅄ      25,868 0.6%
+         12 ㅌ      25,341 0.6%              0.6%                0.6%
+         13 ㄷ      18,535 0.5%              0.5%                0.5%
+         14 ㅈ      17,173 0.4%              0.4%      0.4%
+         15 ㅍ      16,938 0.4%              0.4%           0.4%
+         16 ㅊ       9,944 0.2%              0.2%      0.2%
+         17 ㄺ       7,330 0.2%
+         18 ㄲ       6,068 0.1%                                             0.1%
+         19 ㄻ       4,344 0.1%
+         20 ㅀ       3,023 0.1%
+         21 ㄵ       2,790 0.1%
+         22 ㄼ       2,183 0.1%
+         23 ㄳ         357 0.009%
+         24 ㅋ         302 0.007%          0.007%                    0.007%
+         25 ㄾ         131 0.003%
+         26 ㄿ          78 0.002%
+         27 ㄽ           5 0.0001%
+          Total 4,057,507 100% 24.4%70.6% 92.6%15.9% 3.5% 10.1%53.0%10.2% 5.6% 95.1%
+
+
+
+
+               #Usage statistics of modern Hangul nal consonants #Hasattang
+
+
+              318
+
+
+
+
+￼   fi                                  fi
+         15. Hangul, the foundation of Hallyu
+
+         Hangul is arguably the most effective and intuitive writing
+         system for reading subtitles in multimedia content. Koreans
+         can instantly and effortlessly watch an overwhelming
+         amount of video content—on platforms like YouTube and
+         Net ix—with real-time Hangul subtitles powered by AI. In
+         other words, Korean viewers are uniquely positioned to
+         experience a wide array of global cultures faster and more
+         directly than anyone else in the world.
+         The development of new culture depends on how openly
+         and creatively a society can absorb existing ones and
+         reinterpret them. With its deep historical roots and rich
+         native culture, Korea continues to embrace global cultural
+         elements in real time—constantly blending, evolving, and
+         innovating. At the very heart of this process is Hangul. It
+         sparks originality and innovation across elds and plays a
+         central role in generating new cultural currents. Hallyu, the
+         Korean Wave, is a global movement that shares these
+         innovations with the world. And this movement is only
+         gaining momentum.
+         Structurally, Hangul is syllable-based, allowing for more
+         concise and readable subtitles than English. Viewers can
+         quickly grasp meaning through Hangul subtitles alone,
+         Appendix - Additional explanation                             319
+         often relying more on the written word than audio, leading
+
+
+                                             fi
+    fl
+￼
+    to deeper immersion in the video content. In contrast,
+    English-speaking audiences tend to prefer dubbing over
+    subtitles, as subtitle reading often hinders immersion.
+    Dubbing, however, is selective and inherently delayed due
+    to the production process.
+    In Chinese character-based regions, subtitle-based viewing
+    faces even more constraints—especially with the challenge
+    of accurately transcribing newly coined terms and proper
+    nouns phonetically.
+    Hangul is more than a writing system. It is a linguistic
+    philosophy, a scienti cally designed script, and a tool nely
+    tuned for the digital age. With its unique adaptability and
+    structural clarity, Hangul serves as both the foundation and
+    catalyst for cultural creativity. It fuels the expansion of Hallyu
+    across the globe. Jeong Inji once predicted that the
+    invention of Hunminjeongeum would open a new world of
+    light—today, that vision is being realized among the citizens
+    of the entire world.
+
+
+
+
+    320
+
+
+
+
+                                                fi
+           fi
+￼
+       #Virtuous cycle of Hangul subtitles and cultural growth #Hallyu
+
+
+    Appendix - Additional explanation                                321
+
+
+
+
+￼
+

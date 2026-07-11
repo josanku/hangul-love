@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Old Hangul · All Fonts — つぶやきprocessing</title>
+<style>
+@font-face { font-family: 'HH'; src: url('HancomHoonminjeongeumH.otf'); }
+@font-face { font-family: 'HB'; src: url('HANBatang.ttf'); }
+@font-face { font-family: 'HD'; src: url('HANDotum.ttf'); }
+@font-face { font-family: 'NM'; src: url('NanumMyeongjo-YetHangul.otf'); }
+@font-face { font-family: 'NG'; src: url('NanumBarunGothic-YetHangul.otf'); }
+@font-face { font-family: 'TM'; src: url('NotoSerifKR-Regular.ttf'); }
+@font-face { font-family: 'TG'; src: url('NotoSansKR-Regular.otf'); }
+html,body{margin:0;padding:0;overflow:hidden;background:#000}
+</style>
+<script src="p5.min.js"></script>
+</head>
+<body>
+<script>
+// 외곽 배치가 링 발원마다 원→세모→네모 순환. 각 자리에 '옛한글' 글자.
+// 링(외곽 도형)마다 '폰트'가 7종을 순환: 훈민정음H · 함초롬바탕 · 함초롬돋움
+//   · 나눔명조 · 나눔고딕 · 노토명조 · 노토고딕.
+// 7종 모두에서 깨끗이 합성되는 음절만 폭 필터로 수집 → 두부 없음.
+
+const N = 12;
+const STEP = 1.3;
+const FILL = 0.34;
+const TEXTSCALE = 1.8;
+const FAMS = ['HH', 'HB', 'HD', 'NM', 'NG', 'TM', 'TG'];
+
+const TRI = [ -Math.PI/2, -Math.PI/2 + 2*Math.PI/3, -Math.PI/2 + 4*Math.PI/3 ];
+const SQ  = [ Math.PI/4, 3*Math.PI/4, 5*Math.PI/4, 7*Math.PI/4 ];
+
+const L = []; for (let c=0x1100;c<=0x115E;c++) L.push(c); for (let c=0xA960;c<=0xA97C;c++) L.push(c);
+const V = []; for (let c=0x1161;c<=0x11A7;c++) V.push(c); for (let c=0xD7B0;c<=0xD7C6;c++) V.push(c);
+const T = [0]; for (let c=0x11A8;c<=0x11FF;c++) T.push(c); for (let c=0xD7CB;c<=0xD7FB;c++) T.push(c);
+
+const OBANG = [
+  [40,110,235],[230,45,45],[248,210,30],[245,245,245],[120,120,120],
+  [40,170,85],[55,200,205],[240,120,160],[150,60,180],[180,170,70]
+];
+
+let seedBase = 12345;
+let layouts = [];
+let pool = [], ready = false;
+
+const measCv = document.createElement('canvas');
+const mctx = measCv.getContext('2d');
+function textW(fam, s) { mctx.font = '64px "' + fam + '"'; return mctx.measureText(s).width; }
+
+function setup() {
+  createCanvas(innerWidth, innerHeight);
+  textAlign(CENTER, CENTER);
+  layouts = [circleLayout(), polyLayout(TRI), polyLayout(SQ)];
+  if (document.fonts && document.fonts.load) {
+    Promise.all(FAMS.map(f => document.fonts.load('64px "' + f + '"'))).then(buildPool, buildPool);
+    setTimeout(function () { if (!ready) buildPool(); }, 5000);
+  } else { buildPool(); }
+}
+
+// 7종 폰트 모두에서 폭이 1글자 이내로 합성되는 음절만 수집(교집합) → 어느 폰트로도 두부 없음
+function buildPool() {
+  if (ready) return;
+  const ems = FAMS.map(f => textW(f, '한'));
+  const THR = 1.3;
+  let s = 20240707;
+  const r = () => { s = (s * 1103515245 + 12345) & 0x7fffffff; return s / 0x7fffffff; };
+  const pk = a => a[(r() * a.length) | 0];
+  let tries = 0;
+  while (pool.length < 2500 && tries < 400000) {
+    tries++;
+    const lc = pk(L), vc = pk(V), tc = pk(T);
+    let ch = String.fromCharCode(lc) + String.fromCharCode(vc);
+    if (tc) ch += String.fromCharCode(tc);
+    let ok = true;
+    for (let k = 0; k < FAMS.length; k++) { if (textW(FAMS[k], ch) > ems[k] * THR) { ok = false; break; } }
+    if (ok) pool.push(ch);
+  }
+  if (!pool.length) pool = ['한'];
+  ready = true;
+}
+
+function mousePressed() { seedBase = floor(random(1e9)); }
+function keyPressed()   { seedBase = floor(random(1e9)); }
+
+function circleLayout() {
+  const pts = [];
+  for (let n = 0; n < N; n++) { const th = (n/N)*TWO_PI; pts.push([cos(th), sin(th)]); }
+  return { pts, spacing: TWO_PI / N };
+}
+function polyLayout(verts) {
+  const vs = verts.map(a => [cos(a), sin(a)]);
+  const edges = []; let total = 0;
+  for (let k = 0; k < vs.length; k++) {
+    const p = vs[k], q = vs[(k + 1) % vs.length];
+    const len = dist(p[0], p[1], q[0], q[1]);
+    edges.push({ p, q, len, acc: total }); total += len;
+  }
+  const pts = [];
+  for (let n = 0; n < N; n++) {
+    const target = (n / N) * total;
+    let e = edges[edges.length - 1];
+    for (let k = 0; k < edges.length; k++) { if (target < edges[k].acc + edges[k].len) { e = edges[k]; break; } }
+    const f = (target - e.acc) / e.len;
+    pts.push([lerp(e.p[0], e.q[0], f), lerp(e.p[1], e.q[1], f)]);
+  }
+  return { pts, spacing: total / N };
+}
+function hash(g, n, salt) {
+  let h = ((g * 73856093) ^ (n * 19349663) ^ (seedBase * 83492791) ^ (salt * 2654435761)) | 0;
+  h ^= h >>> 13; h = (h * 1274126177) | 0; h ^= h >>> 16;
+  return (h >>> 0);
+}
+function pick(g, n) {
+  const ch = pool[hash(g, n, 1) % pool.length];
+  return { ch, color: OBANG[hash(g, n, 4) % OBANG.length] };
+}
+
+function draw() {
+  background(0, 5);
+  if (!ready) return;
+  const R = mag(width, height) / 2;
+  const P = millis() * 5e-4;
+  const t = P % STEP;
+  const cyc = floor(P / STEP);
+  noStroke();
+
+  for (let i = -12; i < 3; i++) {
+    const u = i * STEP + t;
+    const X = exp(u) * R;
+    const g = cyc - i;
+    const outer = ((g % 3) + 3) % 3;
+    const lay = layouts[outer];
+    const rad = lay.spacing * FILL;
+    const fam = FAMS[((g % FAMS.length) + FAMS.length) % FAMS.length];  // 링마다 폰트 순환
+    textFont(fam);
+    textSize(X * rad * TEXTSCALE);
+    for (let n = 0; n < N; n++) {
+      const cx = width / 2 + X * lay.pts[n][0];
+      const cy = height / 2 + X * lay.pts[n][1];
+      const it = pick(g, n);
+      fill(it.color);
+      text(it.ch, cx, cy);
+    }
+  }
+}
+
+function windowResized() { resizeCanvas(innerWidth, innerHeight); }
+</script>
+</body>
+</html>
