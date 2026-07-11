@@ -1,0 +1,9 @@
+# Large originals & build artifacts — never upload these to Vercel
+*.pdf
+_content/
+.git/
+.next/
+node_modules/
+*.tsbuildinfo
+PLAN.md
+WORKLOG.md
