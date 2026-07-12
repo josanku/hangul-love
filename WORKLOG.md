@@ -28,4 +28,11 @@
   - KO: "한글정음-우주비밀코드-20260325" = 로컬 1.9GB PDF와 동일 → pdftoppm 로컬 렌더(scale-to-x 1000) → `public/pages/ko/p-001..388.jpg`.
   - 총 816장, ~80MB. 원본 대용량 PDF는 계속 제외.
 - 신규 코드: `lib/bookPages.ts`(페이지 매니페스트+장별 KO/EN 시작페이지), `components/Flipbook.tsx`(좌우 넘김·키보드·스와이프·페이지점프·목차드로어·언어전환), `app/book/read/[lang]/page.tsx`. 홈/`/book` 표지·상세목차 반영.
-- `npm run build` 성공(28 라우트), 로컬 이미지 서빙 200 확인. GitHub push + Vercel 자동배포.
+- `npm run build` 성공(28 라우트), 로컬 이미지 서빙 200 확인.
+
+## 2026-07-12 (3차 — 대표 심볼 · 운영자/공유/좋아요/댓글 · 배포 이슈 해결)
+- **대표 심볼(하사땅)**: 하늘(원)·사람(세모)·땅(네모) SVG(`public/brand/hasattang.svg`) → 홈 히어로·나브 로고·OG 공유이미지(`opengraph-image.tsx`). 파비콘은 hangulart.com 것(파란 원+하늘점).
+- **운영자/커뮤니티 기능**: `lib/kv.ts`(@vercel/kv+인메모리 폴백, `hl:` 프리픽스), API `/api/track|like|comments|admin/stats|admin/comment`, 컴포넌트 TrackView·Reactions(공유+좋아요)·Comments·Community(홈·배우기·아트·소개·책챕터), `/admin` 대시보드(ADMIN_KEY, 조회수·일별차트·인기페이지·좋아요·댓글삭제). 로컬 스모크 전부 200.
+- **KV 저장소**: myhangulname의 Upstash 스토어 `upstash-kv-beige-planet`를 `vercel integration resource connect`로 hangul-love에 연결(env 자동주입). ADMIN_KEY 설정. (myhangulname은 `hg:`, hangul.love는 `hl:` 프리픽스로 키 충돌 없음.)
+- **배포 이슈**: 프로젝트 루트에 원본 풀해상도 이미지 폴더(EN 704MB `.jpeg` 등)와 EN PDF가 있었고 `git add -A`로 704MB가 커밋됨 → .git 1GB, 매 푸시 1.4GB 전송 실패(408/EPIPE/broken pipe). 해결: `*.jpeg`+원본폴더를 .gitignore/.vercelignore에 추가, `git reset --mixed origin/main` 후 웹용 `public/pages/*.jpg`만 재커밋(80MB). 재푸시(재시도 루프) → Vercel 자동배포.
+- env vars: KV_REST_API_URL/TOKEN/READ_ONLY_TOKEN + ADMIN_KEY (Encrypted, prod/preview/dev).
