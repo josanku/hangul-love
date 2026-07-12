@@ -1,6 +1,7 @@
 "use client";
 
 import { useLang } from "@/lib/i18n";
+import Community from "@/components/Community";
 
 export default function About() {
   const { lang } = useLang();
@@ -68,6 +69,7 @@ export default function About() {
           </p>
         </>
       )}
+      <Community title={lang === "ko" ? "소개 · Hangul Love" : "About · Hangul Love"} />
     </div>
   );
 }

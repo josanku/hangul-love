@@ -19,3 +19,13 @@
 - **도메인 hangul.love**: Vercel 프로젝트에 추가 완료. 단, 네임서버가 Cloudflare(troy/violet.ns.cloudflare.com).
   - ⚠️ 남은 수동 1단계: Cloudflare DNS에 `A  hangul.love  76.76.21.21` (프록시 회색구름/DNS only) 추가 → 자동 연결·SSL 발급. (Cloudflare 자격증명이 로컬에 없어 대신 실행 불가.)
 - 상태: 콘텐츠·기능·배포 100% 완료. hangul.love 연결만 CF DNS 레코드 1건 남음.
+
+## 2026-07-11 (2차 — 플립북/표지/목차)
+- 사용자 요청: ①첫 페이지에 책 표지 ②각 페이지 이미지로 좌우 넘김(플립북) ③상세 목차→해당 페이지 점프.
+- **hangul.love 도메인 라이브 확인**: Cloudflare에 `A hangul.love 76.76.21.21`(DNS only) 추가됨 → HTTP 200, SSL 발급 완료. https://hangul.love 정상.
+- 페이지 이미지 소스: 사용자가 Google Drive 폴더 2개 제공.
+  - EN: "HANGUL, THE COSMIC PHILOSOPHY 202603" 428p (개정판, 로컬 PDF의 'Design Philosophy'와 다른 에디션) → Drive 공개링크 curl 다운로드 → sips 1000px/q68 리사이즈 → `public/pages/en/p-001..428.jpg`.
+  - KO: "한글정음-우주비밀코드-20260325" = 로컬 1.9GB PDF와 동일 → pdftoppm 로컬 렌더(scale-to-x 1000) → `public/pages/ko/p-001..388.jpg`.
+  - 총 816장, ~80MB. 원본 대용량 PDF는 계속 제외.
+- 신규 코드: `lib/bookPages.ts`(페이지 매니페스트+장별 KO/EN 시작페이지), `components/Flipbook.tsx`(좌우 넘김·키보드·스와이프·페이지점프·목차드로어·언어전환), `app/book/read/[lang]/page.tsx`. 홈/`/book` 표지·상세목차 반영.
+- `npm run build` 성공(28 라우트), 로컬 이미지 서빙 200 확인. GitHub push + Vercel 자동배포.

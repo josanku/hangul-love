@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useLang, tr } from "@/lib/i18n";
+import { coverSrc } from "@/lib/bookPages";
+import Community from "@/components/Community";
 
 export default function Home() {
   const { lang } = useLang();
@@ -17,8 +19,11 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section style={{ padding: "72px 0 40px", textAlign: "center" }}>
+      <section style={{ padding: "56px 0 40px", textAlign: "center" }}>
         <div className="container-narrow">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/brand/hasattang.svg" alt="하늘·사람·땅 — 원·세모·네모" width={180} height={180}
+            style={{ display: "block", margin: "0 auto 20px", width: "clamp(120px, 26vw, 190px)", height: "auto" }} />
           <div className="serif" style={{ fontSize: "clamp(2.6rem, 7vw, 4.4rem)", fontWeight: 800, lineHeight: 1.1, letterSpacing: "-0.02em" }}>
             {T("home.heroTitle")}
           </div>
@@ -30,6 +35,30 @@ export default function Home() {
             <Link href="/learn" className="btn btn-ghost">{T("home.learn59")}</Link>
           </div>
         </div>
+      </section>
+
+      {/* Book covers */}
+      <section style={{ padding: "8px 0 24px" }}>
+        <div className="container" style={{ display: "flex", gap: 28, justifyContent: "center", alignItems: "flex-end", flexWrap: "wrap" }}>
+          {(["ko", "en"] as const).map((l) => (
+            <Link key={l} href={`/book/read/${l}?page=1`} style={{ textDecoration: "none", display: "flex", flexDirection: "column", alignItems: "center", gap: 10 }}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={coverSrc(l)}
+                alt={l === "ko" ? "한글정음 표지" : "HANGUL cover"}
+                style={{ width: "min(46vw, 260px)", borderRadius: 8, boxShadow: "0 16px 44px rgba(0,0,0,0.22)", transition: "transform .18s ease" }}
+                className="hl-cover"
+              />
+              <span style={{ fontWeight: 700, color: "var(--ink)" }}>
+                {l === "ko" ? "한글정음 (한국어)" : "HANGUL (English)"}
+              </span>
+            </Link>
+          ))}
+        </div>
+        <style>{`.hl-cover:hover{transform:translateY(-6px)}`}</style>
+        <p style={{ textAlign: "center", color: "var(--ink-soft)", marginTop: 18, fontSize: "0.95rem" }}>
+          {lang === "ko" ? "표지를 눌러 실제 책처럼 펼쳐 보세요" : "Tap a cover to flip through the real book"}
+        </p>
       </section>
 
       {/* Three-point glyph strip */}
@@ -66,6 +95,12 @@ export default function Home() {
         <div className="container" style={{ display: "flex", gap: 14, flexWrap: "wrap", justifyContent: "center" }}>
           <a href="https://hangulart.com" target="_blank" rel="noopener" className="btn btn-ghost">hangulart.com ↗</a>
           <a href="https://myhangulname.com" target="_blank" rel="noopener" className="btn btn-ghost">myhangulname.com ↗</a>
+        </div>
+      </section>
+
+      <section style={{ padding: "8px 0 8px" }}>
+        <div className="container-narrow">
+          <Community title="Hangul Love · 한글.love" />
         </div>
       </section>
     </>

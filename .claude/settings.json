@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo \"deploy PID $! \\(background\\)\")",
+      "Bash(grep -E \"\\\\.pdf$\")",
+      "Bash(git rev-list *)"
+    ]
+  }
+}

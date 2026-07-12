@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useLang, tr } from "@/lib/i18n";
 import JamoBuilder from "@/components/JamoBuilder";
+import Community from "@/components/Community";
 
 export default function Learn() {
   const { lang } = useLang();
@@ -76,6 +77,8 @@ export default function Learn() {
           {lang === "ko" ? "창제원리" : "Principles of creation"}
         </Link>
       </div>
+
+      <Community title={lang === "ko" ? "아시므 — 한글 59초" : "Ashimeu — Hangul in 59s"} />
     </div>
   );
 }

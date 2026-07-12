@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useLang, tr } from "@/lib/i18n";
+import Community from "@/components/Community";
 
 type Piece = { file: string; ko: string; en: string };
 
@@ -52,6 +53,10 @@ export default function Art() {
             <div style={{ padding: "12px 16px", fontWeight: 600 }}>{lang === "ko" ? p.ko : p.en}</div>
           </button>
         ))}
+      </div>
+
+      <div className="container-narrow" style={{ padding: 0, margin: "0 auto" }}>
+        <Community title={lang === "ko" ? "한글아트" : "Hangul Art"} />
       </div>
 
       {active && (

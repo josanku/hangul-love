@@ -7,3 +7,7 @@ node_modules/
 *.tsbuildinfo
 PLAN.md
 WORKLOG.md
+
+*.jpeg
+/HANGUL, THE  COSMIC  PHILOSOPHY  202603/
+/한글정음-우주비밀코드-20260325/

@@ -34,10 +34,14 @@ export default function Nav() {
         <Link
           href="/"
           onClick={() => setOpen(false)}
-          style={{ textDecoration: "none", fontWeight: 800, fontSize: "1.1rem", letterSpacing: "-0.01em" }}
+          style={{ textDecoration: "none", fontWeight: 800, fontSize: "1.1rem", letterSpacing: "-0.01em", display: "flex", alignItems: "center", gap: 8 }}
         >
-          <span style={{ color: "var(--red)" }}>한글</span>
-          <span style={{ color: "var(--blue)" }}>.love</span>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/brand/hasattang.svg" alt="" width={30} height={30} style={{ display: "block" }} />
+          <span>
+            <span style={{ color: "var(--red)" }}>한글</span>
+            <span style={{ color: "var(--blue)" }}>.love</span>
+          </span>
         </Link>
 
         <nav

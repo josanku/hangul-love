@@ -30,3 +30,8 @@ next-env.d.ts
 # 대용량 원본 PDF (웹은 마크다운/추출텍스트로 렌더, 원본은 Google Drive 보관)
 *.pdf
 _content/en-raw/
+
+# Raw full-resolution page images (Drive/render originals) — web uses public/pages/*.jpg
+*.jpeg
+/HANGUL, THE  COSMIC  PHILOSOPHY  202603/
+/한글정음-우주비밀코드-20260325/

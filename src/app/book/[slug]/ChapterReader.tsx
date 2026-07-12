@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useLang, tr } from "@/lib/i18n";
+import Community from "@/components/Community";
 
 export default function ChapterReader({
   koTitle,
@@ -71,6 +72,8 @@ export default function ChapterReader({
           </Link>
         ) : <span />}
       </nav>
+
+      <Community title={title} />
     </div>
   );
 }

@@ -3,6 +3,7 @@ import "./globals.css";
 import { LangProvider } from "@/lib/i18n";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import TrackView from "@/components/TrackView";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hangul.love"),
@@ -34,6 +35,7 @@ export default function RootLayout({
     <html lang="ko">
       <body>
         <LangProvider>
+          <TrackView />
           <Nav />
           <main>{children}</main>
           <Footer />
