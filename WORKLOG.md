@@ -36,3 +36,12 @@
 - **KV 저장소**: myhangulname의 Upstash 스토어 `upstash-kv-beige-planet`를 `vercel integration resource connect`로 hangul-love에 연결(env 자동주입). ADMIN_KEY 설정. (myhangulname은 `hg:`, hangul.love는 `hl:` 프리픽스로 키 충돌 없음.)
 - **배포 이슈**: 프로젝트 루트에 원본 풀해상도 이미지 폴더(EN 704MB `.jpeg` 등)와 EN PDF가 있었고 `git add -A`로 704MB가 커밋됨 → .git 1GB, 매 푸시 1.4GB 전송 실패(408/EPIPE/broken pipe). 해결: `*.jpeg`+원본폴더를 .gitignore/.vercelignore에 추가, `git reset --mixed origin/main` 후 웹용 `public/pages/*.jpg`만 재커밋(80MB). 재푸시(재시도 루프) → Vercel 자동배포.
 - env vars: KV_REST_API_URL/TOKEN/READ_ONLY_TOKEN + ADMIN_KEY (Encrypted, prod/preview/dev).
+
+## 2026-07-14 (4차 — 페이지별 본문 텍스트 + 검색 + 크롤링)
+- 요청: 각 페이지 이미지에 본문 텍스트를 함께 제공(클릭 시 텍스트), 검색·AI 크롤 가능하게.
+- 페이지 단위 텍스트 추출: 이미지와 동일 에디션 원본 PDF(루트의 KO/EN 1.9GB)에서 pdftotext 한 번에 추출 후 form-feed(\f)로 분할 → `src/content/pages/{ko,en}/p-NNN.txt` (KO 388·EN 428, 3.1MB).
+- `/read/[lang]/[n]`: 페이지 이미지 + 본문 텍스트 SSG(816쪽) → 검색/AI 크롤 가능한 HTML. 장(chapter) 문맥·이전/다음·언어전환·플립북 링크.
+- 플립북: '본문' 토글 패널(현재 페이지 텍스트 fetch) + 전체보기 링크.
+- 검색: `/search` + `/api/search`(전 페이지 인메모리 인덱스, 스니펫·하이라이트·페이지 점프), `/api/pagetext`.
+- 크롤링: `sitemap.xml`(816 read 페이지 포함) + `robots.txt`(전체 허용, /admin·/api 차단). 나브에 검색 추가.
+- 배포: push → Vercel 자동배포. 프로덕션 확인 — /read 200, 검색 'Sejong' 26건.
