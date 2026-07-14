@@ -1,0 +1,19 @@
+View all 1.6 million Hangul characters
+    Using Unicode Hangul Jamo, it is possible to create 1,608,528
+    unique Hangul syllable combinations.
+    However, typing in Hangul using Jamo components is not easy,
+    and the fonts that support all combinations are not commonly
+    used. Therefore, to make the full range of 1.6 million sounds more
+    accessible, we have organized them using a simple numeric code
+    instead of relying on Unicode sequences. [View 1.6 Million Hangul
+    characters]
+
+              # Unicode Hangul Jamo #1.6 million characters
+
+
+    344
+
+
+
+
+￼

@@ -1,0 +1,32 @@
+OnGgeut represents Taeguk, symbolizing the perfect
+    harmony of the universe and the balance of darkness and
+    light (BalkEo, Yin and Yang). The term combines on (all,
+    complete) and geut (extreme), meaning "the end and the
+    beginning of all things."
+    SeOnGgeut represents Samtaeguk, the threefold complete
+    harmony, symbolizing the unity of Heaven, Earth, and
+    Human in perfect balance.
+
+    5. Naming for initial consonants: ㄱ (Geu-iG), ㄴ (Neu-iN)
+
+    The initial sounds of Jeongeum, that are consonants, are
+    named by adding ㅡ (eu) to the initial consonant. The final
+    sounds are named by adding i and the appropriate final
+    consonant sound. For example, the initial sound of ㄱ is
+    called Geu, and its final sound is called iK. Combining both
+    the initial and final sound names, the complete name for ㄱ
+    becomes Geu-iG. Therefore, ㄱ can be referred to as either
+    Geu or Geu-iG.
+    For ㆅ, since it is not used as a final consonant in Unicode
+    composition, its final sound name is represented using the
+    similar sound ㅎ (Heu-iH), and it is named Ih. In Jeongeum,
+    although ㅇ is written as Eu-i (으이), its final sound is
+    actually silent, so it should be pronounced as Eui
+
+
+    Appendix - Guide notice                                       271
+
+
+
+
+￼

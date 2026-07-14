@@ -1,0 +1,33 @@
+A complete Jeongeum syllable is formed by combining an
+    initial sound, a medial vowel, and a final sound. The total
+    number of possible combinations is initial × medial × final,
+    or 5,219 × 1,463 × 5,219, which equals 39,849,136,943.
+    This means more than 39.8 billion possible syllables can be
+    created, capable of containing every sound found in nature.
+
+
+    1.6 Million Hangul syllables based on Unicode Hangul Jamo
+
+    The global standard character set, Unicode, includes 11,172
+    pre-composed Hangul syllables that are currently used in
+    modern Hangul. In addition to these, there is a separate set
+    of Hangul Jamo codes in Unicode specifically for combining
+    Hangul syllables. This includes not only modern Hangul but
+    also historical Hangul characters (Old Hangul Jamo).
+    By combining these individual characters (Jamo), it is
+    possible to create 1.6 million Hangul syllables (Ongulja) that
+    can be displayed and used on computers.
+    This means that even now, it is technically feasible to
+    generate Jeongeum Hangul that fully embraces the creation
+    principles of Hunminjeongeum. In fact, there are at least
+    three fonts available today that allow all 1.6 million syllables
+    to be displayed on a computer screen.
+
+
+
+    Appendix - Additional explanation                             293
+
+
+
+
+￼

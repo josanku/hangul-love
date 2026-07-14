@@ -11,11 +11,14 @@ export default function BookIndex() {
   return (
     <div className="container" style={{ padding: "40px 0 8px" }}>
       <h1 className="serif" style={{ fontSize: "2.4rem", fontWeight: 800, margin: "0 0 8px" }}>{T("book.title")}</h1>
-      <p style={{ color: "var(--ink-soft)", marginBottom: 28, maxWidth: 640 }}>
+      <p style={{ color: "var(--ink-soft)", marginBottom: 16, maxWidth: 640 }}>
         {lang === "ko"
-          ? "표지를 눌러 실제 책처럼 좌우로 넘겨 보세요. 아래 목차에서 원하는 장으로 바로 이동할 수 있습니다."
-          : "Tap a cover to flip through the real pages, left and right. Jump straight to any chapter from the contents below."}
+          ? "표지를 눌러 실제 책처럼 좌우로 넘겨 보세요. 각 페이지의 본문 텍스트도 함께 볼 수 있고, 전체 검색이 됩니다."
+          : "Tap a cover to flip through the real pages. Each page's full text is available too, and everything is searchable."}
       </p>
+      <Link href="/search" className="btn btn-ghost" style={{ marginBottom: 28 }}>
+        🔍 {lang === "ko" ? "본문 전체 검색" : "Search the full text"}
+      </Link>
 
       {/* Two covers */}
       <div style={{ display: "grid", gap: 24, gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", maxWidth: 720 }}>

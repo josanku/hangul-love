@@ -1,0 +1,32 @@
+13. SeaHangul 새한글, a new Hangul for humanity
+
+
+    Jeongeum Hangul refers to a new Hangul, 새한글
+    SeaHangul, that should be created based on the original
+    principles of Hunminjeongeum Haeryebon while considering
+    the demands of global advanced technology and modern
+    needs. It is intended for all of humanity.
+    Several consonants that were used in Hunminjeongeum are
+    no longer present in modern Korean. Characters like ㆍ ㆆ
+    ㅿ ㆁ have disappeared from standard usage. The loss of ㆍ,
+    which was described as the fundamental and supreme vowel
+    in Hunminjeongeum, represents a loss of the spirit of
+    Hangul. The dot that symbolized the sky is now called
+    Arae-a and is forgotten from everyday use.
+    King Sejong claimed that Jeongeum could even capture the
+    sound of a rooster crowing, yet despite the 11,172
+    precomposed syllables available in Unicode, modern Hangul
+    still struggles to distinguish sounds like V and F or R and L.
+    Furthermore, the order of vowels and consonants, as well as
+    the method of Hangul education, needs to be realigned with
+    its original creation principles.
+
+
+
+
+    310
+
+
+
+
+￼

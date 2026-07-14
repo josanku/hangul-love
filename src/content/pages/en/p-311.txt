@@ -1,0 +1,33 @@
+If approached through the geometric elements of ㅇㅅㅁ, ㆍ
+    ㅣㅡ, and ㆍㅡㅇ (Hasattang, Wonsene, Jeomseonwon),
+    Hangul could be learned intuitively by people worldwide.
+    These simple patterns could make Hangul accessible and
+    easy to understand for anyone.
+
+    The need for restoration of Jeongeum characters
+    Characters like ㆍ ㅿ ㆆ, as well as notation systems like
+    Sunkyeongeum (rounded consonants: ㅸㅹㆄ) and double
+    consonant representations such as      , must be restored
+    according to the original Jeongeum principles. Even today,
+    Hangul Jamo in Unicode allows for the composition of 1.6
+    million Hangul syllables, and there are fonts available that
+    support this. Establishing a standard would be the first step
+    toward realizing this vision. It is also crucial to consider the
+    adoption of three-set input methods (like the Dubeolsik and
+    Sebulsik keyboard layouts) for efficient usage.
+
+    The call for "Hanul-A" and a 25-character Hangul set
+    The vowel ㆍ should be referred to as Hanul-A ([ʌ]) instead
+    of Arae-a. As a first step, a restricted 25-character set has
+    been proposed, which includes:
+    Consonants: ㅇ ㅎ ㅅ ㅈ ㅊ ㅁ ㅂ ㅍ ㄴ ㄷ ㅌ ㄹ ㄱ ㅋ
+    Vowels (Jeongeum order): ㆍ ㅡ ㅣ ㅗ ㅏ ㅜ ㅓ ㅛ ㅑ ㅠ ㅕ
+
+
+    Appendix - Additional explanation                              311
+
+
+
+
+                              ᄯᅡ
+￼

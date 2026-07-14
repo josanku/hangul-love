@@ -1,0 +1,31 @@
+results in a total of 399 + 10,773 = 11,172 syllables.
+    There are 19 initial consonants, 21 medial vowels, and 27
+    final consonants, as follows.
+    The 19 initial consonants consist of 14 basic consonants (ㄱ
+    ㅋ ㄴ ㄷ ㅌ ㄹ ㅁ ㅂ ㅍ ㅅ ㅈ ㅊ ㅇ ㅎ) and 5 double
+    consonants (ㄲ ㄸ ㅃ ㅆ ㅉ).
+    The 21 medial vowels include 2 base vowels (ㅡ ㅣ), 4
+    primary vowels (ㅗ ㅏ ㅜ ㅓ), 4 secondary vowels (ㅛ ㅑ ㅠ
+    ㅕ), 9 two-element compound vowels (ㅐ ㅒ ㅔ ㅖ ㅘ ㅚ ㅝ
+    ㅟ ㅢ), and 2 three-element compound vowels (ㅙ ㅞ).
+    The 27 final consonants are made up of 14 basic consonants
+    (ㄱ ㅋ ㄴ ㄷ ㅌ ㄹ ㅁ ㅂ ㅍ ㅅ ㅈ ㅊ ㅇ ㅎ), 2 identical
+    double consonants (ㄲ ㅆ), and 11 complex final consonants
+    formed from different combinations (ㄳ ㄵ ㄶ ㄺ ㄻ ㄼ ㄽ ㄾ
+    ㄿ ㅀ ㅄ).
+
+    The 11,172 Hangul syllables(Ongulja) reflect the complete
+    phonetic range of modern Hangul and are compatible with
+    global digital standards through Unicode. This system allows
+    Hangul to maintain its structural principles while being fully
+    represented in modern technology.
+
+
+
+
+    Appendix - Additional explanation                           295
+
+
+
+
+￼

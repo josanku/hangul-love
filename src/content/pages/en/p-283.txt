@@ -1,0 +1,32 @@
+Additional Explanation
+
+
+    1. ㅇ and ㆁ
+
+    In Hunminjeongeum, the initial consonant ㅇ is described as
+    having a phonetic value similar to [ɦ]. In practice, however,
+    it is almost devoiced, leaving only the breath sound, which
+    resembles [ɦ̥], or is completely silent, represented as [∅] or
+    [◌]. Therefore, in the translation, the pronunciation of the
+    initial consonant ㅇ in Hunminjeongeum is represented as
+    [◌] to visually express its meaning and presence.
+    In Hunminjeongeum, when ㅇ is used as a final consonant, it
+    is silent [∅], while ㆁ as a final consonant is pronounced as
+    [ŋ].
+    Starting from the 17th century, ㅇ replaced ㆁ, becoming
+    [◌] in the initial position and [ŋ] in the final position, just
+    as it is pronounced in current Hangul.
+    In current Hangul, the initial consonant ㅇ is the most
+    fundamental letter that marks the beginning of Hangul
+    consonants. Despite its presence as an independent letter, it
+    has no phonetic value, making it a uniquely special
+    character. Interestingly, it does not even have an official
+    representation in the IPA (International Phonetic Alphabet)
+
+
+    Appendix - Additional explanation                                283
+
+
+
+
+￼

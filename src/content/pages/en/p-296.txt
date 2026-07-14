@@ -1,0 +1,50 @@
+Initial                             ㅇㅎ ㅅㅈㅊ ㅁㅂㅍ
+     consona  Basic consonants 14
+                                           ㄴㄷㅌㄹ ㄱㅋ
+       nts
+        19    Tense consonants 5           ㅆㅉㅃㄸㄲ
+                         Root vowels 2         (ㆍ) ㅣ ㅡ
+             Simple    First born
+             vowels 10  vowels 4
+                                               ㅏㅓㅗㅜ
+     Medial
+                       Re-born
+     vowels
+                        vowels 4
+                                               ㅑㅕㅛㅠ
+       21
+                       Two letter        ㅐㅒㅔㅖㅘ ㅚㅝㅟ
+            11       combination 9
+            Compou d                         ㅢ
+            vowels    Three  letter
+                     combination 2
+                                            ㅙㅞ
+                                          ㅇㅎ ㅅㅈㅊ ㅁㅂㅍ
+             Basic consonants 14
+                                           ㄴㄷㅌㄹ ㄱㅋ
+       FInal
+     consona Tense consonants 2               ㅆㄲ
+        nts Complex consonants 11           ㅄ
+        27                               ㄺㄻㄼㄽㄾㄿㅀ
+                                           ㄵㄶ
+                                            ㄳ
+    67 phonemes
+    Initial consonants + media vowels + final consonants
+      = 19 + 21 + 27 = 67
+
+    11,172 syllables
+    CV: initial consonants + medial vowels = 19 x 21 = 399
+    CVC: initial consonants + media vowels + final consonants
+      =19 x 21 x 27 = 10,773
+
+    Total = CV + CVC = 399 + 10,773 = 11,172
+
+               #Hangul 11,172 sounds, syllables #Unicode
+
+
+    296
+
+
+
+
+￼

@@ -1,0 +1,30 @@
+Tone characteristics
+
+    In native Korean words, 활 Hwal belongs to the level tone,
+    while :돌 Dol belongs to the rising tone. Korean
+    pronunciation consists of four tones: level tone, rising tone,
+    departing tone, and checked tone. For example, ㆍ갈 Gal
+    follows the departing tone, while ㆍ붇 But follows the
+    checked tone.
+    Adding one dot to the left of any character creates the
+    departing tone, adding two dots creates the rising tone, and
+    leaving it without a dot results in the level tone.
+    The checked tone in Hanja closely resembles the departing
+    tone, but in native Korean, the checked tone is not fixed and
+    sometimes resembles the level tone. Examples include ㆍ 긷
+    Gid and :녑 Nyeop. Other cases, such as ㆍ못 Mot and ㆍ입
+    Ip , show similarities to the departing tone. Words that end
+    with consonants that close the final sound, such as ㄱ ㄷ ㅂ
+    ㅅ (익 읻 입 잇) ( iD iB iT), are classified as entering-tone
+    words. Examples include 깍 KKaK, 닫 DaT, 밥 BaP, 값 GaP,
+    and 옷 OT.
+
+
+
+
+    216
+
+
+
+
+￼

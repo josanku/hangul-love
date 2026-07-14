@@ -1,0 +1,32 @@
+14. Frequency analysis of modern Hangul usage
+
+    The National Institute of the Korean Language conducted a
+    large-scale analysis of modern Korean language usage based
+    on a corpus of approximately 3 million word tokens. This
+    report includes a variety of linguistic analyses from a Korean
+    computational linguistics perspective. In connection with the
+    phoneme system of the Hunminjeongeum Haeryebon, the
+    report presents frequency data for both vowels and
+    consonants.
+    In the statistics for syllable-initial consonants (onsets), the
+    order of usage frequency of three Hasattang consonants are
+    ㅇ,ㅅ, and ㅁ. Among the five major sound categories of the
+    Haeryebon, throat sounds (water) and tongue sounds (fire)
+    are considered the most fundamental, which is proven in this
+    report. Statistically, these categories account for 30% and
+    23.8% of usage, respectively.
+    For medial vowels (nucleus), the base vowels ㅣ and ㅡ
+    make up 28%, while the core primary vowels ㅏㅓㅗ ㅜ (first
+    born) account for 49%. Combined, these two groups
+    represent 77% of all vowel use. In contrast, the palatalized
+    second-born vowels ㅑㅕㅛㅠ comprise only 7%, with ㅕ
+    alone accounting for 4.76%. Altogether, the ten basic vowels
+
+
+
+    314
+
+
+
+
+￼

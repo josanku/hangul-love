@@ -1,0 +1,23 @@
+Checked tone to softer final sounds
+
+    The semi-tongue sound ㄹ (R/L) is used in native Korean
+    words but is not found in Hanja. For example, the Hanja
+    character with the sound of 볃 ByeoT preserves the checked
+    tone with the final sound ㄷ(iD). However, over time,
+    people habitually softened the final sound ㄷ in Hanja
+    pronunciation, replacing it with the lighter ㄹ sound, leading
+    to 별 ByeoL.
+    As a result, while 볃 ByeoT retains its checked tone, 별
+    ByeoL has lost this quality, as its sound spreads and slows
+    down, preventing it from functioning as an entering-tone
+    syllable.
+
+
+
+
+    204
+
+
+
+
+￼

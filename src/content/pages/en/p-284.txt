@@ -1,0 +1,30 @@
+standards. Both [∅] and [◌] are unofficial notation methods
+    used to indicate silence.
+    The symbol ◌ bears a conceptual resemblance to the
+    number 0 (zero), symbolizing emptiness or nonexistence.
+
+
+    2. Initial consonants missing in current Hangul
+
+    ㆁ (ŋeu-iŋ): Pronounced as [ŋ], it has been replaced by
+    ㅇ in current Hangul.
+    ㆆ (Yeorin Heu-iH): A sound similar to [ʔ]. It is positioned
+    phonetically between ㅇ and ㅎ.
+    ㅿ (Zeu-iZ): A sound close to [z].
+
+    Although not basic initial consonants, ㅸ and ㆅ are also no
+    longer in use:
+    ㅸ (Yeorin Beu-iB): Pronounced as [β], representing a soft
+    lip sound.
+    ㆅ (Ssang HHeu-iHH): A sound similar to [x], representing
+    a double aspiration.
+
+
+
+
+    284
+
+
+
+
+￼

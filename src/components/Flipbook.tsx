@@ -16,6 +16,8 @@ export default function Flipbook({
   const clamp = useCallback((n: number) => Math.min(total, Math.max(1, n)), [total]);
   const [page, setPage] = useState(clamp(initialPage));
   const [tocOpen, setTocOpen] = useState(false);
+  const [textOpen, setTextOpen] = useState(false);
+  const [pageText, setPageText] = useState<string>("");
   const { lang: uiLang } = useLang();
   const touchX = useRef<number | null>(null);
 
@@ -52,6 +54,18 @@ export default function Flipbook({
     });
   }, [page, lang, total]);
 
+  // Load current page's extracted text when the panel is open
+  useEffect(() => {
+    if (!textOpen) return;
+    let alive = true;
+    setPageText("");
+    fetch(`/api/pagetext?lang=${lang}&n=${page}`)
+      .then((r) => r.json())
+      .then((d) => { if (alive) setPageText(d.text ?? ""); })
+      .catch(() => {});
+    return () => { alive = false; };
+  }, [textOpen, lang, page]);
+
   const t = (ko: string, en: string) => (uiLang === "ko" ? ko : en);
 
   return (
@@ -64,6 +78,10 @@ export default function Flipbook({
         <strong className="serif" style={{ fontSize: "0.95rem" }}>{BOOK_TITLE[lang]}</strong>
 
         <div style={{ marginLeft: "auto", display: "flex", alignItems: "center", gap: 8 }}>
+          <button onClick={() => setTextOpen((v) => !v)} className="btn btn-ghost" aria-pressed={textOpen}
+            style={{ padding: "0.35em 0.9em", fontSize: "0.85rem", borderColor: textOpen ? "var(--accent)" : "var(--line)", color: textOpen ? "var(--accent)" : "var(--ink)" }}>
+            📄 {t("본문", "Text")}
+          </button>
           <button onClick={() => setTocOpen((v) => !v)} className="btn btn-ghost" style={{ padding: "0.35em 0.9em", fontSize: "0.85rem" }}>
             ☰ {t("목차", "Contents")}
           </button>
@@ -125,6 +143,23 @@ export default function Flipbook({
           style={{ maxHeight: "calc(100vh - 190px)", maxWidth: "100%", width: "auto", objectFit: "contain", boxShadow: "0 10px 40px rgba(0,0,0,0.18)", borderRadius: 4, background: "#fff" }}
         />
       </div>
+
+      {/* Text panel */}
+      {textOpen && (
+        <div style={{ borderTop: "1px solid var(--line)", background: "var(--paper-2)", maxHeight: "38vh", overflowY: "auto", padding: "16px 20px" }}>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
+            <strong style={{ fontSize: "0.9rem", color: "var(--ink-soft)" }}>{t("본문 텍스트", "Page text")} · p.{page}</strong>
+            <a href={`/read/${lang}/${page}`} className="btn btn-ghost" style={{ padding: "0.25em 0.7em", fontSize: "0.78rem" }}>
+              {t("전체 보기 · 검색", "Full page · search")} ↗
+            </a>
+          </div>
+          {pageText.trim() ? (
+            <pre className="serif" style={{ whiteSpace: "pre-wrap", wordBreak: "break-word", fontFamily: "inherit", lineHeight: 1.8, margin: 0, fontSize: "0.98rem" }}>{pageText}</pre>
+          ) : (
+            <p style={{ color: "var(--ink-soft)", margin: 0 }}>{t("이 페이지는 추출된 텍스트가 없습니다(그림 위주).", "No extracted text for this page (image-only).")}</p>
+          )}
+        </div>
+      )}
 
       {/* Bottom controls */}
       <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 16, padding: "12px 16px", borderTop: "1px solid var(--line)" }}>

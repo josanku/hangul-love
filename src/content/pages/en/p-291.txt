@@ -1,0 +1,32 @@
+Suggested order for basic letters
+    I propose two revised orders for Hangul letters.
+    The first reorders initial consonants based on the Wonsene
+    (ㅇㅅㅁ) principle, while preserving the original vowel
+    sequence of Jeongeum. For Korean learners, this approach
+    may offer insights into the foundational principles behind
+    Hangul's creation.
+    The second presents a more consistent reordering of both
+    consonants and vowels, fully aligned with the Wonsene (ㅇㅅ
+    ㅁ) framework, according to the concept of Hasattang.
+    Vowels can be categorized based on whether priority is given
+    to those with one dot (ㆍ) or two. This structure may be
+    more intuitive, especially for beginners. For this reason, I
+    have adopted it with the second vowel order in the “Learn
+    Hangul by yourself” section of the appendix.
+
+    First suggestion
+    Wonsene consonant order: ㅇㅎ ㅅㅈㅁㅂㅍ ㄴㄷㅌㄹ ㄱㅋ
+    Jeongeum vowel order: ㆍㅡ l ㅗㅏㅜㅓ ㅛㅑㅠㅕ
+
+    Second suggestion
+    Wonsene consonant order: ㅇㅎ ㅅㅈㅁㅂㅍ ㄴㄷㅌㄹ ㄱㅋ
+    Wonsene vowel order 1: ㆍ l ㅡ ㅏㅓㅑㅕ ㅗㅜㅛㅠ
+    Wonsene vowel order 2: ㆍ l ㅡ ㅏㅑㅓㅕ ㅗㅛㅜㅠ
+
+
+    Appendix - Additional explanation                              291
+
+
+
+
+￼

@@ -1,0 +1,33 @@
+In the full set of combinable Hangul Jamo characters in
+    Unicode, there are 125 initial sounds, 94 medial vowels, and
+    138 final sounds. Each set includes an empty element. When
+    calculated by total code capacity, 125 × 95 × 138 results in
+    1,638,750 possible sound combinations. However, this
+    number includes cases where the initial or medial sounds do
+    not actually exist.
+    When forming a complete Hangul syllable, the final sound
+    can be omitted, but the initial and medial sounds cannot.
+    Therefore, excluding those two cases, the actual number of
+    valid syllables is 124 × 94 × 138, which equals 1,608,528.
+    The full set of 1.6 million possible syllables has been made
+    accessible. [View 1.6 million Hangul sounds]
+
+
+    11,172 Unicode Hangul sounds
+
+    The total number of complete Hangul syllables (Ongulja) in
+    modern Hangul is 11,172, and these are registered in the
+    global standard character set, Unicode. These syllables are
+    fully accessible through computers and digital devices.
+    The number of Hangul syllables formed with only an initial
+    and a medial sound is calculated as 19 × 21 = 399. The
+    number of syllables formed with an initial, a medial, and a
+    final sound is 19 × 21 × 27 = 10,773. Adding these together
+
+
+    294
+
+
+
+
+￼

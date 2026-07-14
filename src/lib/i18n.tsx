@@ -25,6 +25,7 @@ export const t: Dict = {
   "nav.learn": { ko: "배우기", en: "Learn" },
   "nav.art": { ko: "한글아트", en: "Hangul Art" },
   "nav.name": { ko: "내 한글이름", en: "My Hangul Name" },
+  "nav.search": { ko: "검색", en: "Search" },
   "nav.about": { ko: "소개", en: "About" },
 
   "home.heroTitle": { ko: "한글, 사랑하다", en: "Hangul, with Love" },
