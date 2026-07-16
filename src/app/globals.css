@@ -1,5 +1,24 @@
 @import "tailwindcss";
 
+/* 본문: 나눔명조옛한글 */
+@font-face {
+  font-family: "NanumMyeongjoYet";
+  src: url("/fonts/NanumMyeongjoYetHangul.woff2") format("woff2");
+  font-weight: 400 800;
+  font-display: swap;
+}
+/* 홀소리·닿소리·옛한글: 한컴 훈민정음 가로쓰기 */
+@font-face {
+  font-family: "HancomHunmin";
+  src: url("/fonts/HancomHunminH.woff2") format("woff2");
+  font-display: swap;
+}
+
+/* 자모·옛한글 표기용 클래스 */
+.jamo {
+  font-family: "HancomHunmin", "NanumMyeongjoYet", "Apple SD Gothic Neo", serif;
+}
+
 :root {
   /* Hanji (traditional paper) + ink, with obangsaek (five cardinal colors) accents */
   --paper: #f7f2e7;
@@ -46,8 +65,8 @@ a { color: inherit; }
 .container-narrow { width: 100%; max-width: 760px; margin: 0 auto; padding: 0 20px; }
 
 .serif {
-  font-family: "Apple SD Gothic Neo", "Nanum Myeongjo", "Batang", "Noto Serif KR",
-    Georgia, serif;
+  font-family: "NanumMyeongjoYet", "Nanum Myeongjo", "Apple SD Gothic Neo",
+    "Batang", "Noto Serif KR", Georgia, serif;
 }
 
 /* Reading typography for chapters */

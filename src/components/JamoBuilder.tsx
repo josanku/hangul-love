@@ -46,7 +46,7 @@ function Row({
           <button
             key={it || "none"}
             onClick={() => onPick(it)}
-            className="serif"
+            className="jamo"
             style={{
               minWidth: 40,
               padding: "8px 10px",

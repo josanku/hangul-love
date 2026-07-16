@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     template: "%s · Hangul Love",
   },
   description:
-    "『한글정음』과 『HANGUL: The Design Philosophy』 두 권의 책을 무료로 읽고, 아시므로 59초 만에 원리를 깨우치고, 한글아트와 내 한글이름까지 — 한글을 사랑하는 모든 것.",
+    "『한글정음』과 『HANGUL, The Cosmic Philosophy』 두 권의 책을 무료로 읽고, 아시므로 59초 만에 원리를 깨우치고, 한글아트와 내 한글이름까지 — 한글을 사랑하는 모든 것.",
   keywords: [
     "한글", "Hangul", "훈민정음", "Hunminjeongeum", "한글정음",
     "King Sejong", "learn Korean", "Korean alphabet", "한글아트", "hangul art",

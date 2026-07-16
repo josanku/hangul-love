@@ -5,7 +5,7 @@ Read, learn, enjoy & share Hangul.
 
 두 권의 책을 세계에 무료로 공개합니다:
 - 『한글정음 — 우주비밀코드』 (한국어)
-- 『HANGUL: The Design Philosophy』 (영어)
+- 『HANGUL, The Cosmic Philosophy』 (영어)
 
 ## 메뉴 / Sections
 - **The Book** — 두 책 전문, 챕터별 웹 리더 (KO/EN 전환)

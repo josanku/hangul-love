@@ -17,7 +17,7 @@ export async function generateMetadata({
   if (!ch) return {};
   return {
     title: `${ch.koTitle} · ${ch.enTitle}`,
-    description: `${ch.koTitle} — 한글정음 / HANGUL: The Design Philosophy`,
+    description: `${ch.koTitle} — 한글정음 / HANGUL, The Cosmic Philosophy`,
   };
 }
 

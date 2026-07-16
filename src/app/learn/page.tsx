@@ -38,7 +38,7 @@ export default function Learn() {
       <section style={{ display: "grid", gap: 14, gridTemplateColumns: "repeat(auto-fit, minmax(200px,1fr))", margin: "28px 0" }}>
         {steps.map((s) => (
           <div key={s.g} className="card" style={{ padding: 22, textAlign: "center" }}>
-            <div className="serif" style={{ fontSize: "3rem", lineHeight: 1 }}>{s.g}</div>
+            <div className="jamo" style={{ fontSize: "3.2rem", lineHeight: 1 }}>{s.g}</div>
             <div style={{ fontWeight: 700, margin: "10px 0 4px" }}>{s.h}</div>
             <div style={{ color: "var(--ink-soft)", fontSize: "0.92rem" }}>{s.d}</div>
           </div>

@@ -38,8 +38,8 @@ export const t: Dict = {
 
   "home.cardBookT": { ko: "두 권의 책", en: "Two Books" },
   "home.cardBookD": {
-    ko: "『한글정음』(한국어)과 『HANGUL: The Design Philosophy』(영어) 전문을 챕터별로.",
-    en: "Full text of Hangul Jeongeum (Korean) and HANGUL: The Design Philosophy (English), chapter by chapter.",
+    ko: "『한글정음』(한국어)과 『HANGUL, The Cosmic Philosophy』(영어) 전문을 챕터별로.",
+    en: "Full text of Hangul Jeongeum (Korean) and HANGUL, The Cosmic Philosophy (English), chapter by chapter.",
   },
   "home.cardLearnT": { ko: "아시므 · 59초", en: "Ashimeu · 59s" },
   "home.cardLearnD": {

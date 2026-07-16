@@ -70,7 +70,7 @@ export default function Home() {
             { g: "ㅡ", ko: "땅", en: "Earth" },
           ].map((x) => (
             <div key={x.g} className="serif" style={{ textAlign: "center" }}>
-              <div style={{ fontSize: "2.4rem", color: "var(--ink)" }}>{x.g}</div>
+              <div className="jamo" style={{ fontSize: "2.6rem", color: "var(--ink)" }}>{x.g}</div>
               <div style={{ fontSize: "0.9rem" }}>{lang === "ko" ? x.ko : x.en}</div>
             </div>
           ))}

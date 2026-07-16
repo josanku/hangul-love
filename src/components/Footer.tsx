@@ -24,7 +24,7 @@ export default function Footer() {
         </nav>
       </div>
       <div className="container" style={{ marginTop: 20, fontSize: "0.8rem" }}>
-        © {2026} 조산구 (Josanku) · 『한글정음』 · 『HANGUL: The Design Philosophy』
+        © {2026} 조산구 (Josanku) · 『한글정음』 · 『HANGUL, The Cosmic Philosophy』
       </div>
     </footer>
   );

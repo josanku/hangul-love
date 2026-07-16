@@ -17,7 +17,7 @@ export const BOOK_TOTAL: Record<Lang, number> = { ko: 388, en: 428 };
 
 export const BOOK_TITLE: Record<Lang, string> = {
   ko: "한글정음 — 우주비밀코드",
-  en: "HANGUL — The Design Philosophy",
+  en: "HANGUL, The Cosmic Philosophy",
 };
 
 // Cover image = page 1 of each book.

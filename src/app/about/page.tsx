@@ -19,7 +19,7 @@ export default function About() {
           <h2>두 권의 책</h2>
           <ul>
             <li><strong>『한글정음 — 우주비밀코드』</strong> (한국어)</li>
-            <li><strong>『HANGUL: The Design Philosophy』</strong> (영어)</li>
+            <li><strong>『HANGUL, The Cosmic Philosophy』</strong> (영어)</li>
           </ul>
           <p>
             훈민정음의 창제 원리부터 첫소리·가운뎃소리·끝소리의 풀이, 정인지 서문,
@@ -49,7 +49,7 @@ export default function About() {
           <h2>Two books</h2>
           <ul>
             <li><strong>Hangul Jeongeum — The Cosmic Secret Code</strong> (Korean)</li>
-            <li><strong>HANGUL: The Design Philosophy</strong> (English)</li>
+            <li><strong>HANGUL, The Cosmic Philosophy</strong> (English)</li>
           </ul>
           <p>
             From the creation principles of Hunminjeongeum through the initial, medial, and
