@@ -33,6 +33,15 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
+      <head>
+        <link
+          rel="preload"
+          as="font"
+          href="/fonts/NanumMyeongjoYetHangul.woff2"
+          type="font/woff2"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body>
         <LangProvider>
           <TrackView />

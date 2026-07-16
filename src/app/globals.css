@@ -14,9 +14,10 @@
   font-display: swap;
 }
 
-/* 자모·옛한글 표기용 클래스 */
+/* 자모·옛한글 표기용 클래스 (옛한글 지원 폰트 폴백 포함) */
 .jamo {
-  font-family: "HancomHunmin", "NanumMyeongjoYet", "Apple SD Gothic Neo", serif;
+  font-family: "HancomHunmin", "NanumMyeongjoYet", "함초롬바탕", "HCR Batang",
+    "Apple SD Gothic Neo", "Batang", "바탕", serif;
 }
 
 :root {
@@ -65,8 +66,9 @@ a { color: inherit; }
 .container-narrow { width: 100%; max-width: 760px; margin: 0 auto; padding: 0 20px; }
 
 .serif {
-  font-family: "NanumMyeongjoYet", "Nanum Myeongjo", "Apple SD Gothic Neo",
-    "Batang", "Noto Serif KR", Georgia, serif;
+  /* 옛한글 조합을 지원하는 폰트를 우선 폴백에 둠 (웹폰트 미로드 시에도 최대한 표시) */
+  font-family: "NanumMyeongjoYet", "함초롬바탕", "HCR Batang", "Nanum Myeongjo",
+    "Apple SD Gothic Neo", "Batang", "바탕", "Noto Serif KR", Georgia, serif;
 }
 
 /* Reading typography for chapters */
