@@ -45,3 +45,11 @@
 - 검색: `/search` + `/api/search`(전 페이지 인메모리 인덱스, 스니펫·하이라이트·페이지 점프), `/api/pagetext`.
 - 크롤링: `sitemap.xml`(816 read 페이지 포함) + `robots.txt`(전체 허용, /admin·/api 차단). 나브에 검색 추가.
 - 배포: push → Vercel 자동배포. 프로덕션 확인 — /read 200, 검색 'Sejong' 26건.
+
+## 2026-07-15 (5차 — 제목 변경 + 폰트)
+- 제목: HANGUL: The Design Philosophy → **HANGUL, The Cosmic Philosophy** (전역: bookPages/i18n/layout/about/footer/book meta/README).
+- 폰트(원본 `/Users/skyblue/birth of hangul/`): 나눔명조옛한글·한컴 훈민정음 가로쓰기(HancomHoonminjeongeumH.otf 28MB) → fonttools/pyftsubset 서브셋+woff2.
+  - 본문: `NanumMyeongjoYetHangul.woff2`(868KB, 전체음절+책 한자) → `.serif`(=prose/read/flipbook 텍스트).
+  - 홀소리·닿소리·옛한글: `HancomHunminH.woff2`(119KB, 자모블록 U+3130-318F·1100-11FF·A960-A97F·D7B0-D7FF, 모던음절 제외) → `.jamo` 클래스(홈 3점·배우기 스텝·자모조합기 버튼).
+  - 서브셋 venv: scratchpad/fontenv. font-display: swap.
+- 프로덕션 확인: 폰트 200, 제목 Cosmic Philosophy.
