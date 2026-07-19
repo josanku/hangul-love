@@ -5,7 +5,7 @@ import { CHAPTERS } from "@/lib/chapters";
 const BASE = "https://hangul.love";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPages = ["", "/book", "/learn", "/art", "/name", "/search", "/about"].map((p) => ({
+  const staticPages = ["", "/book", "/book/jeoma", "/learn", "/art", "/name", "/search", "/about"].map((p) => ({
     url: `${BASE}${p}`,
     changeFrequency: "weekly" as const,
     priority: p === "" ? 1 : 0.7,
